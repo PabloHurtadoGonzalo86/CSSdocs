@@ -15,6 +15,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Estado interno de herramientas locales (no es parte del proyecto)
+.claude/
+
 # Watcher state (se versiona aparte si hace falta, no como cache local)
 .cache/
 .github/scripts/last_report.md

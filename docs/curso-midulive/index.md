@@ -9,10 +9,10 @@ estructurado por capítulos, con ejemplos y referencias cruzadas a la documentac
 
 | # | Vídeo | Duración | Resumen (Google Docs) |
 |---|---|---|---|
-| 1 | [¡APRENDE CSS GRATIS! Curso de CSS desde cero para principiantes](https://www.youtube.com/watch?v=hrxjBqZWsb0) | 1:43:07 | _pendiente de enlace_ |
-| 2 | [¡Guía de CSS Flexbox para aprender de forma sencilla!](https://www.youtube.com/watch?v=PSwlAuRbv_A) | 1:30:56 | _pendiente de enlace_ |
-| 3 | [Aprende CSS Grid MUY FÁCIL con ejercicios](https://www.youtube.com/watch?v=iTjkiI8QQsM) | 1:36:23 | _pendiente de enlace_ |
-| 4 | [Aprende Animaciones con CSS y Scroll Animations sin JavaScript](https://www.youtube.com/watch?v=RwjgfNX41TE) | 1:37:05 | _pendiente de enlace_ |
+| 1 | [¡APRENDE CSS GRATIS! Curso de CSS desde cero para principiantes](https://www.youtube.com/watch?v=hrxjBqZWsb0) | 1:43:07 | [Módulo 1: Fundamentos](https://docs.google.com/document/d/1m0Z2EcxhCvxx6pFT5VWur_Rfx08AUfOYL5HOuNJkh1E/edit) |
+| 2 | [¡Guía de CSS Flexbox para aprender de forma sencilla!](https://www.youtube.com/watch?v=PSwlAuRbv_A) | 1:30:56 | [Módulo 2: Flexbox](https://docs.google.com/document/d/1UMLZik83BYQK26Jqfna6-aPdRHf_sWVjm0prRIWTrWM/edit) |
+| 3 | [Aprende CSS Grid MUY FÁCIL con ejercicios](https://www.youtube.com/watch?v=iTjkiI8QQsM) | 1:36:23 | [Módulo 3: CSS Grid](https://docs.google.com/document/d/125uHC8Bmm7sklq6xlnitGY5A3GZgKKlp3vElhAC9lbQ/edit) |
+| 4 | [Aprende Animaciones con CSS y Scroll Animations sin JavaScript](https://www.youtube.com/watch?v=RwjgfNX41TE) | 1:37:05 | [Módulo 4: Animaciones](https://docs.google.com/document/d/1yChOMdgJGa_Mgid1ERICjZ2_AWTaIERyWXPtP66otps/edit) |
 
 !!! note "Metodología"
     Los resúmenes de las clases 1 y 2 se han redactado a partir de la transcripción literal
