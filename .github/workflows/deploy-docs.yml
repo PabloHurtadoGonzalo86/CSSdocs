@@ -30,7 +30,7 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Construir el sitio (modo estricto: cualquier warning es un error)
+      - name: "Construir el sitio (modo estricto: cualquier warning es un error)"
         run: mkdocs build --strict
 
       - name: Configurar GitHub Pages
