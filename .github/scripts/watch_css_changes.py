@@ -34,15 +34,18 @@ CANIUSE_WATCHLIST = {
     "css-has": "Selector :has()",
     "css-container-queries": "Container queries (@container)",
     "css-cascade-layers": "Cascade layers (@layer)",
-    "css-scroll-timeline": "Scroll-driven animations (animation-timeline)",
     "css-anchor-positioning": "Anchor positioning",
     "css-subgrid": "Subgrid",
     "css-color-function": "color() / relative color syntax",
     "css-cascade-scope": "@scope",
     "css-container-query-units": "Unidades de container queries (cqw, cqh...)",
     "css-media-range-syntax": "Sintaxis de rango en media queries",
-    "css-view-transitions": "View Transitions API",
+    "view-transitions": "View Transitions API (single-document)",
+    "cross-document-view-transitions": "View Transitions API (cross-document)",
 }
+# Nota: caniuse todavia no tiene una entrada dedicada para "scroll-driven animations"
+# (animation-timeline/scroll()/view()) a fecha de escritura de este script. Los cambios
+# en esa especificacion se siguen detectando igualmente via los commits de CSSWG Drafts.
 
 
 def gh_get(url):
