@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
   issues: write
+  pull-requests: write
+  id-token: write
+  actions: read
 
 jobs:
   watch:
@@ -34,7 +37,7 @@ jobs:
 
       - name: Commit del estado y el changelog
         run: |
-          git add .github/scripts/state.json docs/novedades/changelog.md
+          git add .github/scripts/state.json src/content/docs/novedades/changelog.md
           if ! git diff --cached --quiet; then
             git commit -m "chore: vigilancia semanal de CSS $(date -u +%Y-%m-%d)"
             git push
@@ -58,3 +61,36 @@ jobs:
             --title "Vigilancia semanal de CSS — $(date -u +%Y-%m-%d)" \
             --body-file .github/scripts/last_report.md \
             --label css-watch
+
+      - name: Redactar actualización con Claude Code (solo si hay hallazgos)
+        if: steps.watcher.outputs.has_findings == 'true'
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Lee el informe en .github/scripts/last_report.md: son cambios REALES ya detectados
+            (por un script determinista, no por ti) en MDN, CSSWG Drafts o caniuse, cada uno con
+            su enlace oficial.
+
+            Para cada hallazgo del informe:
+            1. Abre el enlace oficial y comprueba tú mismo, de primera mano, qué cambió exactamente.
+            2. Decide si afecta de verdad al contenido de alguna página de src/content/docs/**.
+               Si el cambio es irrelevante para el contenido (p. ej. un typo, un cambio de formato
+               interno, o una especificación que ya estaba bien reflejada), NO toques nada por ese
+               hallazgo: es preferible no editar a editar sin necesidad real.
+            3. Si sí es relevante, actualiza esa página siguiendo exactamente las convenciones ya
+               usadas en el resto del sitio (frontmatter con title/description, admonitions
+               ":::note"/":::tip"/":::caution", secciones "## Ver también" y "## Fuentes" con
+               enlaces reales). No inventes nada que no hayas verificado tú mismo en el enlace
+               oficial del hallazgo o en MDN/W3C directamente.
+
+            No toques src/content/docs/novedades/changelog.md, .github/scripts/state.json ni
+            ningún otro archivo fuera del resto de src/content/docs/**.
+
+            Si al final has hecho cambios, abre un Pull Request contra main con un título tipo
+            "docs: actualizar CSS tras vigilancia semanal" (puedes ejecutar `date -u +%Y-%m-%d`
+            con Bash si quieres incluir la fecha exacta de hoy) y en la descripción del PR enlaza
+            cada hallazgo del informe con la página que actualizaste y por qué. Si tras investigar
+            decides que ningún hallazgo requería cambios de contenido, no abras ningún Pull
+            Request y no hagas ningún commit.
+          claude_args: "--max-turns 30"

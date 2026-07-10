@@ -1,7 +1,10 @@
-# MkDocs build output
-site/
+# Astro / Node build output
+dist/
+.astro/
+node_modules/
+npm-debug.log*
 
-# Python
+# Python (script del vigilante semanal)
 __pycache__/
 *.pyc
 .venv/
@@ -18,6 +21,5 @@ Thumbs.db
 # Estado interno de herramientas locales (no es parte del proyecto)
 .claude/
 
-# Watcher state (se versiona aparte si hace falta, no como cache local)
-.cache/
+# Watcher: solo el informe transitorio, el estado sí se versiona
 .github/scripts/last_report.md

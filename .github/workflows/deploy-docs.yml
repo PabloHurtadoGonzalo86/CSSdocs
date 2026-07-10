@@ -21,27 +21,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Configurar Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: "3.12"
-          cache: pip
-
-      - name: Instalar dependencias
-        run: pip install -r requirements.txt
-
-      - name: "Construir el sitio (modo estricto: cualquier warning es un error)"
-        run: mkdocs build --strict
-
-      - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v6
-        with:
-          enablement: true
-
-      - name: Subir artefacto del sitio
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: site
+      - name: Instalar, construir y subir el sitio (Astro + Starlight)
+        uses: withastro/action@v6
 
   deploy:
     needs: build

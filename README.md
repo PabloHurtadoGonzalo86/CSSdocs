@@ -4,12 +4,17 @@ Documentación viva y personal sobre CSS, pensada para dominarlo a nivel profesi
 
 - 📖 **Sitio publicado:** https://pablohurtadogonzalo86.github.io/CSSdocs/
 - 🎓 **Basada en:** fuentes oficiales (MDN Web Docs, especificaciones W3C/CSSWG, web.dev) + el curso ["Curso de CSS desde cero completo y GRATIS"](https://www.youtube.com/playlist?list=PLUofhDIg_38q7l8gV4IVCz_pjUeyD99_j) de [midulive](https://www.youtube.com/@midulive).
-- 🤖 **Vigilante semanal automático:** cada semana, un workflow de GitHub Actions revisa fuentes oficiales (repo de contenido de MDN, `caniuse-lite`, estado de especificaciones CSSWG) y abre un Issue con los cambios detectados desde la última revisión, para mantener la documentación al día sin depender de la memoria de nadie.
+- 🤖 **Vigilante semanal automático:** cada semana, un workflow de GitHub Actions revisa fuentes oficiales (repo de contenido de MDN, CSSWG Drafts, caniuse) y, si detecta cambios reales desde la última revisión, abre un Issue y lanza a Claude Code para que investigue cada hallazgo y proponga la actualización de la documentación en un Pull Request (nunca se commitea contenido de IA directo a `main`).
+- 💬 **Menciones interactivas `@claude`:** puedes escribir `@claude ...` en cualquier Issue o Pull Request de este repo para pedirle a Claude Code que investigue, corrija o implemente algo bajo demanda.
+
+## Stack
+
+Construido con [Astro](https://astro.build/) + [Starlight](https://starlight.astro.build/).
 
 ## Estructura
 
 ```
-docs/
+src/content/docs/
 ├── fundamentos/       Sintaxis, cascada, especificidad, herencia, selectores, unidades, colores, modelo de caja
 ├── layout/             Display, flujo normal, overflow, positioning, flexbox, grid, multi-columna
 ├── responsive/         Media queries, container queries, unidades y funciones responsivas
@@ -25,8 +30,8 @@ docs/
 ## Desarrollo local
 
 ```bash
-pip install -r requirements.txt
-mkdocs serve
+npm install
+npm run dev
 ```
 
 ## Licencia

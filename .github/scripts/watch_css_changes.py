@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(SCRIPT_DIR, "state.json")
 CHANGELOG_PATH = os.path.normpath(
-    os.path.join(SCRIPT_DIR, "..", "..", "docs", "novedades", "changelog.md")
+    os.path.join(SCRIPT_DIR, "..", "..", "src", "content", "docs", "novedades", "changelog.md")
 )
 LAST_REPORT_PATH = os.path.join(SCRIPT_DIR, "last_report.md")
 
@@ -176,7 +176,10 @@ def main():
             existing = f.read()
     else:
         existing = (
-            "# Changelog automático de CSS\n\n"
+            "---\n"
+            "title: Changelog automático de CSS\n"
+            "description: Registro semanal de cambios reales detectados en MDN, CSSWG Drafts y caniuse.\n"
+            "---\n\n"
             "Entradas generadas por el vigilante semanal "
             "(`.github/workflows/weekly-css-watch.yml`). Cada entrada enlaza cambios "
             "reales detectados en MDN, CSSWG Drafts y caniuse — nunca contenido inventado.\n"
