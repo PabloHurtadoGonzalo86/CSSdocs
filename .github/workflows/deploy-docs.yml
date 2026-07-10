@@ -23,6 +23,8 @@ jobs:
 
       - name: Instalar, construir y subir el sitio (Astro + Starlight)
         uses: withastro/action@v6
+        with:
+          package-manager: npm
 
   deploy:
     needs: build

@@ -14,7 +14,7 @@ Una referencia estructurada, precisa y didáctica que combina:
   especificaciones del [CSS Working Group (W3C)](https://www.w3.org/Style/CSS/) y datos de
   soporte de [caniuse](https://caniuse.com/).
 - El curso en vídeo ["Curso de CSS desde cero completo y GRATIS"](https://www.youtube.com/playlist?list=PLUofhDIg_38q7l8gV4IVCz_pjUeyD99_j)
-  de [midulive](https://www.youtube.com/@midulive) — ver [Curso de midulive](curso-midulive/index).
+  de [midulive](https://www.youtube.com/@midulive) — ver [Curso de midulive](curso-midulive).
 - Un **vigilante semanal automático** (GitHub Actions) que revisa esas fuentes oficiales y
   registra los cambios detectados en [Novedades](novedades/changelog), para que esta
   documentación no se quede obsoleta.
@@ -31,7 +31,7 @@ Una referencia estructurada, precisa y didáctica que combina:
 | [CSS moderno](moderno/custom-properties) | Custom properties, `:has()`/`:is()`/`:where()`, nesting, `@layer`, `@scope`, color moderno |
 | [Arquitectura CSS](arquitectura/metodologias-y-organizacion) | Metodologías y organización a escala |
 | [Cheatsheets](cheatsheets/flexbox-cheatsheet) | Chuletas rápidas de Flexbox, Grid y selectores |
-| [Curso de midulive](curso-midulive/index) | Notas y enlaces a los resúmenes del curso en Google Docs |
+| [Curso de midulive](curso-midulive) | Notas y enlaces a los resúmenes del curso en Google Docs |
 | [Novedades](novedades/changelog) | Changelog automático generado por el vigilante semanal |
 
 ## Filosofía de esta documentación
