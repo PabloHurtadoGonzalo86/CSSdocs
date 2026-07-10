@@ -1,4 +1,17 @@
 {
-  "last_run": null,
-  "caniuse_status": {}
+  "caniuse_status": {
+    "cross-document-view-transitions": "wd",
+    "css-anchor-positioning": "wd",
+    "css-cascade-layers": "cr",
+    "css-cascade-scope": "wd",
+    "css-color-function": "cr",
+    "css-container-queries": "wd",
+    "css-container-query-units": "wd",
+    "css-has": "wd",
+    "css-media-range-syntax": "cr",
+    "css-nesting": "wd",
+    "css-subgrid": "cr",
+    "view-transitions": "wd"
+  },
+  "last_run": "2026-07-10T16:11:08Z"
 }

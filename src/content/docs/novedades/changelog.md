@@ -19,3 +19,9 @@ documentación podría necesitar una revisión manual.
 
 *Todavía no se ha ejecutado ninguna vigilancia semanal. La primera ejecución programada
 sentará la base de comparación (ver `.github/scripts/state.json`).*
+
+---
+
+# Vigilancia semanal de CSS — 2026-07-10
+
+Primera ejecucion: se ha guardado el estado inicial (commits de referencia y estados de madurez de caniuse). A partir de la proxima ejecucion semanal se compararan los cambios reales frente a este punto de partida.
