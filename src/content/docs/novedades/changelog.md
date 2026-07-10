@@ -83,3 +83,9 @@ Primera ejecucion: se ha guardado el estado inicial (commits de referencia y est
 - [[css-overscroll-1] Never mind, exclude single-axis scrollers from the scroll chain in their non-scrolling axis.](https://github.com/w3c/csswg-drafts/commit/23ba67b1be61d6f455a9cf46a2732df72e1aa68a) (2026-05-14)
 - [[css-nav-1] Fix up 'can be manually scrolled' to care about axises, use it in a few more places.](https://github.com/w3c/csswg-drafts/commit/8f211ee559ce6ee64d2268e94cadccabf6425610) (2026-05-14)
 - [[css-nav-1] Clean up some of the bikeshed errors](https://github.com/w3c/csswg-drafts/commit/f74689996f25df8092e2c3767fa186e12e9fa399) (2026-05-14)
+
+---
+
+# Vigilancia semanal de CSS — 2026-07-10
+
+No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
