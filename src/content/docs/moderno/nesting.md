@@ -1,6 +1,6 @@
 ---
 title: CSS Nesting nativo
-description: Guía completa del CSS Nesting nativo: cómo se procesa, el selector &, cuándo es obligatorio, el anidamiento de at-rules y sus diferencias con Sass o Less.
+description: "Guía completa del CSS Nesting nativo: cómo se procesa, el selector &, cuándo es obligatorio, el anidamiento de at-rules y sus diferencias con Sass o Less."
 ---
 
 El *CSS Nesting* (anidamiento nativo de CSS) permite escribir una regla de estilo dentro de otra, de forma que el selector de la regla anidada se resuelve en relación con el selector de la regla que la contiene. Es exactamente el tipo de comodidad que durante más de una década solo ofrecían preprocesadores como Sass o Less, pero ahora la interpreta el propio navegador, sin paso de compilación. Esto importa en un proyecto real porque elimina una dependencia de build solo para agrupar estilos relacionados, y porque lo que ves en el archivo `.css` es exactamente lo que el navegador ejecuta, sin la capa de indirección de un preprocesador.
