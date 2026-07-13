@@ -89,3 +89,10 @@ Primera ejecucion: se ha guardado el estado inicial (commits de referencia y est
 # Vigilancia semanal de CSS — 2026-07-10
 
 No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
+
+---
+
+# Vigilancia semanal de CSS — 2026-07-13
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [added missing word (#44698)](https://github.com/mdn/content/commit/a0b748b391f3ed7e6ef38e8eda3ecaa9efced926) (2026-07-13)
