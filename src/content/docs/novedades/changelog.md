@@ -96,3 +96,48 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 
 ## MDN Web Docs — cambios en la referencia de CSS
 - [added missing word (#44698)](https://github.com/mdn/content/commit/a0b748b391f3ed7e6ef38e8eda3ecaa9efced926) (2026-07-13)
+
+---
+
+# Vigilancia semanal de CSS — 2026-07-20
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [New pages: row-rule, *-style, and *-width (#44725)](https://github.com/mdn/content/commit/b13ef1ff1d0914617689df9074b24d41486e91b2) (2026-07-18)
+- [Synchronize with BCD v8.0.7 (#44771)](https://github.com/mdn/content/commit/9cf3002bd29376c15d49df6fab2e6a264285abf6) (2026-07-18)
+- [New CSS module page: `will-change` (#44210)](https://github.com/mdn/content/commit/5362c0545d8dc2a859fd2f64de41d576931d6a2e) (2026-07-18)
+- [Fix scan media feature example: use interlace not interlaced (#44779)](https://github.com/mdn/content/commit/5a41c90092765ffe35958f439c2ab626714db340) (2026-07-18)
+- [Change nonnegative to non-negative (#44765)](https://github.com/mdn/content/commit/0c62b082755017d0773ecaaee7e74efd5e066d0b) (2026-07-17)
+- [Editorial review: Document responsive iframe sizing (#44598)](https://github.com/mdn/content/commit/04c41175b160dc00b1a1b8e4e13b2183d89fdf1a) (2026-07-17)
+- [fix: auto-cleanup by bot (#44756)](https://github.com/mdn/content/commit/78291b4caa8c466d5e96480b7c0646f5f255952c) (2026-07-17)
+- [fix: add note about relative URL resolution in custom properties for url() (#44751)](https://github.com/mdn/content/commit/b36b3e9dc1c4a60a4a382e57f1d3793164e2ca3f) (2026-07-16)
+- [fix: soften 'never' to 'generally not' for pointer-events:none description (#44749)](https://github.com/mdn/content/commit/54363b174e87f0d2af789266d78eda0e9934bdbd) (2026-07-16)
+- [Update muted HTML attribute description and examples (#44724)](https://github.com/mdn/content/commit/d1aa0dbd7441564e6ce8f6706c2022a2e1912d8c) (2026-07-16)
+- [Editorial review: Document border-shape (#44191)](https://github.com/mdn/content/commit/cd0970bc03cf30a9a8089954cc542a17dbe9eba3) (2026-07-16)
+- [fix: remove deprecated overflow:overlay from demo code (#44737)](https://github.com/mdn/content/commit/bd1e1e4c5979dc7b79f75dfcc787e5bff9510aef) (2026-07-16)
+- [ci(deps-dev): bump prettier from 3.9.4 to 3.9.5 (#44676)](https://github.com/mdn/content/commit/4761340e600daad008747fb9aa48e28748a78422) (2026-07-15)
+- [Fix simple code example oversight (#44717)](https://github.com/mdn/content/commit/7dbcde5a0aa6855447d015d99eba6fb8be6c2185) (2026-07-15)
+- [New property: row-rule-color (#44549)](https://github.com/mdn/content/commit/c2b19ba089e2aa91491254bb76b9cbfcc27d7826) (2026-07-15)
+- [Fix typo in Multicolumn Layout - Handling Overflow guide (#44692)](https://github.com/mdn/content/commit/fe28ff18c21cdea9ab159bafb972cc3f1e17cae7) (2026-07-13)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-values-5] Editorial reorg of calc-size()](https://github.com/w3c/csswg-drafts/commit/c7573530343759ace8e46438a1fa2c44515b5554) (2026-07-17)
+- [[css-values-5] Add WPT links](https://github.com/w3c/csswg-drafts/commit/df2c8d991cdad3582adb549bae076d7a05104ced) (2026-07-17)
+- [[css-color-4] Avoid referencing "prepare for conversion", just state directly #14049](https://github.com/w3c/csswg-drafts/commit/226658f3d76cf165495b8faa92e8dfe60f7d7ae6) (2026-07-17)
+- [[css-animations-2] Added `animation-delay-start`/`end` and made `animation-delay` a shorthand (#14167)](https://github.com/w3c/csswg-drafts/commit/dadb67bc264b412ff5f87cf6917912d4ae8a9c81) (2026-07-17)
+- [[css-color-4] Clarified that the computed value of a deprecated system color is the color of the corresponding (non-deprecated) system color #13459](https://github.com/w3c/csswg-drafts/commit/e5e48fd957106f1f62fec295df5843583991aae3) (2026-07-16)
+- [[web-animations-2] [scroll-animations] should calling play() reset the start time of a scroll-driven animation? (#14146)](https://github.com/w3c/csswg-drafts/commit/fea54cd6aa87f81e9ff7ea365366854eca28a284) (2026-07-16)
+- [cleanup](https://github.com/w3c/csswg-drafts/commit/324e9d7e0fb1477bc7584d21c6862c00b1b742ae) (2026-07-15)
+- [[css-color-4] Consolidated the resolution of system colors and deprecated system colors #13450](https://github.com/w3c/csswg-drafts/commit/ccbeef7edc7c0fd155a79040ec7bdc1265a4e723) (2026-07-15)
+- [[css-color-4][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/f91ef82ca03a91ad3c9a66a116d06405a64747c2) (2026-07-15)
+- [[css-color-4][editorial] Added gradients to the hue interpolation examples to make them clearer](https://github.com/w3c/csswg-drafts/commit/7ee4e3759bd56d191668a53287c8baa4cce9247b) (2026-07-15)
+- [[css-mixins-1][editorial] Update WPT paths and add missing WPTs](https://github.com/w3c/csswg-drafts/commit/0da42c8afd3a2a237be8fcfe1831b40d0d35aca4) (2026-07-14)
+- [[css-values-5] Make it a little clearer that attr() matches *identically* to attribute selectors.](https://github.com/w3c/csswg-drafts/commit/c48d1b1353552913cf1c534c4d4e01f1bc3bed21) (2026-07-13)
+- [[selectors-4] Fix explanation of HTML's case-matching rules. Define the default matching of document-supplied strings. #2259](https://github.com/w3c/csswg-drafts/commit/a2e88f36185c396d795f0718594c3022ea911a0d) (2026-07-13)
+- [[mediaqueries-4] Remove trailing mention for speech as not deprecated. Fix #6029](https://github.com/w3c/csswg-drafts/commit/ac212bb8b373768ccf3c583bf76e0c74d35bcd50) (2026-07-14)
+- [[css-values-5][editorial] fix bikeshed issues](https://github.com/w3c/csswg-drafts/commit/0222af95924db44c8e10d993b614596cd6f35cbb) (2026-07-13)
+- [[web-animations-2] Auto-aligning the start time should apply a pending playback rate (#14175)](https://github.com/w3c/csswg-drafts/commit/04c3840a291d62b095845786bbfbf05f1cd421f7) (2026-07-13)
+- [Tweak prose to account for ident-token](https://github.com/w3c/csswg-drafts/commit/e82303fde06dcff89f8e8e004f161ccb78d2a577) (2026-07-13)
+- [function-token includes the opening (](https://github.com/w3c/csswg-drafts/commit/1c83f3a46a6cf6c6be4d71234065cd6e15108cea) (2026-07-09)
+- [Add changes entry](https://github.com/w3c/csswg-drafts/commit/9f912ea85e0fdacb8ad94d82a59672fcea579e33) (2026-07-09)
+- [[css-mixins-1] Make parentheses optional for mixins without parameters. #13015](https://github.com/w3c/csswg-drafts/commit/e3b81f011c571887ccc2ad850e581174cd93641a) (2026-07-09)
+- [replace `contain: view-transition` with `view-transition-scope: all` (#14171)](https://github.com/w3c/csswg-drafts/commit/6ebe5ca638a909b79cc8928aae0196ef1e96d050) (2026-07-13)
