@@ -141,3 +141,42 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [Add changes entry](https://github.com/w3c/csswg-drafts/commit/9f912ea85e0fdacb8ad94d82a59672fcea579e33) (2026-07-09)
 - [[css-mixins-1] Make parentheses optional for mixins without parameters. #13015](https://github.com/w3c/csswg-drafts/commit/e3b81f011c571887ccc2ad850e581174cd93641a) (2026-07-09)
 - [replace `contain: view-transition` with `view-transition-scope: all` (#14171)](https://github.com/w3c/csswg-drafts/commit/6ebe5ca638a909b79cc8928aae0196ef1e96d050) (2026-07-13)
+
+---
+
+# Vigilancia semanal de CSS — 2026-07-27
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Update CSS function references (#44865)](https://github.com/mdn/content/commit/d1745aaf15baa2b3d48f67a51eba881a9f4f2c33) (2026-07-26)
+- [CSS properties:  intro sentence in values section (#44873)](https://github.com/mdn/content/commit/071fd0613b1b5728d2d83845ea11512cb615067a) (2026-07-26)
+- [Synchronize with BCD v8.0.8 (#44914)](https://github.com/mdn/content/commit/a9dc3374034d357cbfea717fd5d641605359e3c7) (2026-07-25)
+- [link parameters property & param() function (#44852)](https://github.com/mdn/content/commit/35cd8b781219157e42b289364754cff862c2dd1a) (2026-07-24)
+- [CSS property: value section intro (#44867)](https://github.com/mdn/content/commit/d4dc9d899ebec0e9c22a5bb9229f39f33457d8df) (2026-07-24)
+- [New data type page: line-width (#44597)](https://github.com/mdn/content/commit/e9c03ba87f9ff4123150d8f7dc457bd546bdab83) (2026-07-24)
+- [CSS `repeat()` function: page rewrite (#44601)](https://github.com/mdn/content/commit/01b76b3a2afa161bd2481e3623d76f05de4b2797) (2026-07-24)
+- [FF153 CSS basic shape closest-/farthest-corner (#44827)](https://github.com/mdn/content/commit/1e7ba7f0645705dcd46dd7392f09284129cf87bf) (2026-07-24)
+- [Fix typo in `font-weight` at-rule descriptor reference (#44888)](https://github.com/mdn/content/commit/c66cecb0ec58ddea1bd624aa89dd355d9b90b5c3) (2026-07-24)
+- [Editorial review: Document the path-length CSS property (#44563)](https://github.com/mdn/content/commit/28f2781de2dbb8e81be94c87ff81fd0442cb4736) (2026-07-24)
+- [fix(css): clarify ruby-position inter-character value (#44874)](https://github.com/mdn/content/commit/a52a9cd2b661e6e51e4b600c848207140265d362) (2026-07-23)
+- [columns property: add value to interactive example (#44890)](https://github.com/mdn/content/commit/ab90c79ca764c4431c7f4a078d81c02ef4bfce2e) (2026-07-23)
+- [Page updates: column-rule-* (#44755)](https://github.com/mdn/content/commit/5cf8432d980cbe9b7e5611d647d8566b5c4ff3ed) (2026-07-21)
+- [CSS value intro sentence position (#44833)](https://github.com/mdn/content/commit/c0c85c3dc0d6ff4247c85b0144149e584d74b625) (2026-07-21)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-values-4][editorial] Slightly reword the automatic clamping text to make it clearer that it's often implicit/UA-defined.](https://github.com/w3c/csswg-drafts/commit/5849ec370c7edc65dcade47d25e113d8798d33b8) (2026-07-23)
+- [[css-values-5][editorial] Fix markup](https://github.com/w3c/csswg-drafts/commit/6200ae897402813de98f750ca5dc80eb43cb5533) (2026-07-23)
+- [[css-values-5] Specify that normal simplification *is* done on the calculation (and basis if needed), same as math functions.](https://github.com/w3c/csswg-drafts/commit/55f964529ec847328c9253ceaae1798a9f3412d4) (2026-07-23)
+- [[filter-effects-1] Removed SVGURIInterface from SVGFilterElement. #13949](https://github.com/w3c/csswg-drafts/commit/65f6c90e61e89ea7c14c1196390f714d9f39b6f4) (2026-07-22)
+- [[selectors-4][editorial] correct link to html a element not lab (color) a](https://github.com/w3c/csswg-drafts/commit/08f2f799da6a306e8bf5daca208683717f26d643) (2026-07-22)
+- [[selectors-4][editorial] Mark some sections explicitly as non-normative, in hopes the normative reference checker is helped](https://github.com/w3c/csswg-drafts/commit/5606680f8d8141c39fd07d99331a6fea94c1293b) (2026-07-22)
+- [[selectors-4][editorial] Update changes](https://github.com/w3c/csswg-drafts/commit/0319971bd0fada94b50b5f79d3ce95589c757e3e) (2026-07-22)
+- [[selectors-4] Changed HTML5 references to HTML LS](https://github.com/w3c/csswg-drafts/commit/45dbb1507f09ceb9cceca5a7ab70ed33a8c74851) (2026-07-22)
+- [[selectors-4][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/c2f4c82b646edb4c6467354dd7e740c05d505b4f) (2026-07-22)
+- [[selectors-4][editorial] Update changes](https://github.com/w3c/csswg-drafts/commit/71f240e7a761c4c0969641e9f2392c916132b8d6) (2026-07-22)
+- [[css-sizing-5][editorial] Add/tweak notes in interpolation-size.](https://github.com/w3c/csswg-drafts/commit/5c21b073ea303b1331f82921ce6137336b6f102d) (2026-07-20)
+- [[css-values-5][editorial] Fix example code to current syntax/rules.](https://github.com/w3c/csswg-drafts/commit/66a5b4b80962d51e44e03e8d07ed62a13c4b785f) (2026-07-20)
+- [[css-values-5] Revert previous edit about simplification at specified/computed time, it's just an interpolation operation.](https://github.com/w3c/csswg-drafts/commit/63bd6aec4bb234baf896bd3307aef1753923f01f) (2026-07-20)
+- [[css-values-5][editorial] Shift 'simplifying calc-size()' back to being under 'interpolating', as it only concerns interpolation.](https://github.com/w3c/csswg-drafts/commit/762e5ca4b20b0ae4cb44ca0d8a569525ee2cc13f) (2026-07-20)
+- [[css-values-5][editorial] Define all the calc-basis values more explicitly in our normal list fashion; slightly rearrange surrounding text to fit.](https://github.com/w3c/csswg-drafts/commit/8c67ba03f553e5697424ac13a5d3f3188bc82bf2) (2026-07-20)
+- [[css-font-loading] Add support for the new  terminology and alias the old (#14197)](https://github.com/w3c/csswg-drafts/commit/11aef64584da64cd350bd221fc598adf6ec40894) (2026-07-20)
+- [[css-color-4] Changed the previous term "Required conversion" to "Conversion, if required" because the former term was misleading #14204](https://github.com/w3c/csswg-drafts/commit/553385de6177e28f6c9cbccb480caee0cdd724c9) (2026-07-20)
