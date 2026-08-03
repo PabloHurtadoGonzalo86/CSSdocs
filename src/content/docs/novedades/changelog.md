@@ -180,3 +180,35 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-values-5][editorial] Define all the calc-basis values more explicitly in our normal list fashion; slightly rearrange surrounding text to fit.](https://github.com/w3c/csswg-drafts/commit/8c67ba03f553e5697424ac13a5d3f3188bc82bf2) (2026-07-20)
 - [[css-font-loading] Add support for the new  terminology and alias the old (#14197)](https://github.com/w3c/csswg-drafts/commit/11aef64584da64cd350bd221fc598adf6ec40894) (2026-07-20)
 - [[css-color-4] Changed the previous term "Required conversion" to "Conversion, if required" because the former term was misleading #14204](https://github.com/w3c/csswg-drafts/commit/553385de6177e28f6c9cbccb480caee0cdd724c9) (2026-07-20)
+
+---
+
+# Vigilancia semanal de CSS — 2026-08-03
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [THank! docs(css): remove stale flex-basis 0% vs 0 warning on `flex` page (#44963)](https://github.com/mdn/content/commit/28839be2d5cdb1235fdd75b873c90cf491e93367) (2026-07-31)
+- [Mark all legacy SVG1 writing-mode values as deprecated (#44974)](https://github.com/mdn/content/commit/52b551c479b9ab85215a05e40161013e3f285746) (2026-07-31)
+- [Note the SVG rotate() center-of-rotation syntax (#44979)](https://github.com/mdn/content/commit/80ab11f9d757b49325122071a8a6210440ec6551) (2026-07-31)
+- [New CSS property: rule (#44947)](https://github.com/mdn/content/commit/f4d39e4f5a6f426bff5f91cccb5b6fadff094e27) (2026-07-30)
+- [CSS minor fix: added missing "flexbox" (#44955)](https://github.com/mdn/content/commit/b5c3edee358451f960799810aaed0749e5f1b2be) (2026-07-30)
+- [Fix broken links, HTTP→HTTPS upgrades, and article/typo corrections (#44733)](https://github.com/mdn/content/commit/7ed7b730bf88307cc6cf34b82bb1d735b9a1aa1f) (2026-07-28)
+- [fix: missing apostrophe in CSS Replaced Elements guide ('dont' -> 'don't') (#44928)](https://github.com/mdn/content/commit/7b47c1b23681675bdaaa3788d1c177ac92eb925f) (2026-07-27)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[web-animations-css-integration] Drop Web Animations CSS Integration spec](https://github.com/w3c/csswg-drafts/commit/e1f921c97d8e50fb54d087f81a16b91f5d33a34f) (2026-08-03)
+- [[css-backgrounds-4][editorial] Sort background-origin and background-clip values in canonical order (#14257)](https://github.com/w3c/csswg-drafts/commit/bbbe9a687b92585ad2587e2441e439e838d99fec) (2026-08-03)
+- [[css-gaps-1] Update Privacy Considerations per wide review feedback.](https://github.com/w3c/csswg-drafts/commit/13b14ec48af0219c893713d670cf80d8c014a648) (2026-07-31)
+- [typo](https://github.com/w3c/csswg-drafts/commit/e595770f2216380e954462fab5b54222b6c066bf) (2026-07-31)
+- [[css-color-5][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/34d6bf9698913d418d24dd0e29fc674a53830b7e) (2026-07-31)
+- [[css-color-5][editorial] Add examples of RCD alpha() serialization, #13994](https://github.com/w3c/csswg-drafts/commit/55eb4e60ace2723c82caf2d888e09b9f3ecd512b) (2026-07-31)
+- [[css-navigation-1][editorial] Update title (#14242)](https://github.com/w3c/csswg-drafts/commit/dbb54ef0c224308747560a9c6021eb0714b98c37) (2026-07-30)
+- [[selectors-4][editorial] Make non-normative references more clearly marked so the normative references checker doesn't trip over them so much](https://github.com/w3c/csswg-drafts/commit/c282dbebe51162f438dcafa1a1d77634f366a6e3) (2026-07-30)
+- [[css-syntax-3][editorial] Update changes](https://github.com/w3c/csswg-drafts/commit/f971255463f01fb740e2a3a7ecfe83e319cddab9) (2026-07-30)
+- [better layout](https://github.com/w3c/csswg-drafts/commit/d5c592fdb6102834457b1284714b2b0f62ea9c87) (2026-07-28)
+- [[css-color-hdr][editorial] Add JzCzhz prim-sec diagram to the JzCzhz section](https://github.com/w3c/csswg-drafts/commit/df2044c097c6c7769652cf289f3a7be07810fcd8) (2026-07-28)
+- [[css-color-hdr][editorial] Add Jzazbz prim-sec diagram and its generator script](https://github.com/w3c/csswg-drafts/commit/7b804b8ffc2e3481a2eab7d22b25d21d25f0989b) (2026-07-28)
+- [[css-color-4][editorial] Add generator script for Oklch prim-sec diagrams](https://github.com/w3c/csswg-drafts/commit/178bea27ffcffd0ef418a5c6f4184bb41b7da168) (2026-07-28)
+- [[css-color-4][editorial] Add Oklab a,b plane diagrams for predefined RGB color spaces](https://github.com/w3c/csswg-drafts/commit/133fcc7e84c534a382d94519ee910840e003bd8a) (2026-07-28)
+- [Remove a dangling scroll completion para from CSSOM View 1](https://github.com/w3c/csswg-drafts/commit/dc3101a1c758940d05a650bafd1cbc6e0865fabb) (2026-07-27)
+- [[css-color-4][editorial] Add note to hwb about Abney effect](https://github.com/w3c/csswg-drafts/commit/4dbb2edad06e2ebc0cb47aa39d019c5fd5e0cc3f) (2026-07-24)
+- [[web-animations-1] Specify handling of duration string values other than auto](https://github.com/w3c/csswg-drafts/commit/9fc6f40a056ea714a35acb9414a73f92edc8ce53) (2026-07-28)
