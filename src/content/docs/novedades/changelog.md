@@ -212,3 +212,41 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [Remove a dangling scroll completion para from CSSOM View 1](https://github.com/w3c/csswg-drafts/commit/dc3101a1c758940d05a650bafd1cbc6e0865fabb) (2026-07-27)
 - [[css-color-4][editorial] Add note to hwb about Abney effect](https://github.com/w3c/csswg-drafts/commit/4dbb2edad06e2ebc0cb47aa39d019c5fd5e0cc3f) (2026-07-24)
 - [[web-animations-1] Specify handling of duration string values other than auto](https://github.com/w3c/csswg-drafts/commit/9fc6f40a056ea714a35acb9414a73f92edc8ce53) (2026-07-28)
+
+---
+
+# Vigilancia semanal de CSS — 2026-08-10
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Revise flex-direction property (#44956)](https://github.com/mdn/content/commit/c965bd5938085b2dab7d19734adbe3db0914ba5d) (2026-08-07)
+- [[CSS] Add grid-lanes documentation to display property (#44436)](https://github.com/mdn/content/commit/24cdca6f7927df0c49c00d272f68d4a25c817af3) (2026-08-07)
+- [Synchronize with BCD v8.0.10 (#45039)](https://github.com/mdn/content/commit/343ab51426f9279175b8f71fff911621d0a7da20) (2026-08-07)
+- [Fix typos: withing -> within, wll -> will, bellow -> below (#45040)](https://github.com/mdn/content/commit/f49f1d49a7ea045dd1365834d8931721894c1aaf) (2026-08-07)
+- [fix: resolve weekly spelling check findings (#44906)](https://github.com/mdn/content/commit/c655f38c10ba17b853b0e66b43cf4cf2b176e424) (2026-08-04)
+- [Fix weekly spelling check (#44962)](https://github.com/mdn/content/commit/4b837c21d9138c61a81ac584cd4319cf22d1388c) (2026-08-04)
+- [New pages: rule-* shorthand properties (#44895)](https://github.com/mdn/content/commit/e08f8e5467c3af416ca82f00bfbf19d718d6fbab) (2026-08-04)
+- [Synchronize with BCD v8.0.9 (#45000)](https://github.com/mdn/content/commit/e57e3fdd4ab6fb372ddc3d78e5b428f318202426) (2026-08-04)
+- [Remove outdated browser compatibility info about sideways-rl and sideways-lr (#44970)](https://github.com/mdn/content/commit/08c6d21d1e741aa3d96296edaa4964ebfcdbaded) (2026-08-03)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-egg-1] Added random units](https://github.com/w3c/csswg-drafts/commit/f86e27657b041700249811a974f7c4a80df20d82) (2026-08-07)
+- [[web-animations-1][web-animations-2] Simplify auto fill mode calculation in level 1](https://github.com/w3c/csswg-drafts/commit/914ce4bbc2b25bb3c7b50b7b844a5f1a164b6ed6) (2026-08-07)
+- [Add links from drafts homepage to explainers](https://github.com/w3c/csswg-drafts/commit/6af23215645075e9e88751765ea07d0d1231c5d6) (2026-07-31)
+- [Fix link](https://github.com/w3c/csswg-drafts/commit/f5170788ce7777e75ed3d2a16fb856e3c8bf10b7) (2026-08-06)
+- [typo](https://github.com/w3c/csswg-drafts/commit/87b44e016626bbbf5c55953ea622e3fe1483131f) (2026-08-06)
+- [stop bikeshed complaining](https://github.com/w3c/csswg-drafts/commit/b414cb076ef2364df644a2652c78e40afdeafc13) (2026-08-06)
+- [[css-color-4][editorial] Update changes](https://github.com/w3c/csswg-drafts/commit/d528ec68d55e20578ef418085db37bb4a9e907bc) (2026-08-06)
+- [[css-color-4][editorial] add generator for the Oklrab Lr vs L diagram](https://github.com/w3c/csswg-drafts/commit/65787fbffd3f1cbba575f744d90f15e6a6422d83) (2026-08-06)
+- [[css-color-4][editorial] add a figure #14207](https://github.com/w3c/csswg-drafts/commit/c9ab944a7e7743defe9da30f382e357ace982265) (2026-08-06)
+- [[css-color-4] Explain deltaE better, and add deltaEOKr2 #14207](https://github.com/w3c/csswg-drafts/commit/af8338edf72e154f05b57d4c199906358e684db0) (2026-08-06)
+- [[css-text-decor-4] Added percentages to `text-decoration-inset` (#14282)](https://github.com/w3c/csswg-drafts/commit/512adad03bbc51c03b47e58c6a21b53b974ad000) (2026-08-06)
+- [[web-animations-1] Add summary of relationship between play states and start/hold time](https://github.com/w3c/csswg-drafts/commit/8dc970b1eef7da4890d8c559c85ad02a8edda34e) (2026-08-06)
+- [Revert "[css-text-decor-4] Updated the value for `text-decoration-inset` (#14269)"](https://github.com/w3c/csswg-drafts/commit/96dadf1df19e764ddc0fd78b728fad626e944cc6) (2026-08-05)
+- [[css-text-decor-4] Updated the value for `text-decoration-inset` (#14269)](https://github.com/w3c/csswg-drafts/commit/2d923a4d630c7e396bbe0fa26bee20ff051e8e0d) (2026-08-05)
+- [[web-animations-1] Update changelog](https://github.com/w3c/csswg-drafts/commit/06cc4643ee5556a8174e8d732b947ef56272a0b2) (2026-08-05)
+- [[web-animations-1] Add missing closing div tag](https://github.com/w3c/csswg-drafts/commit/44b9fc8ee208dd18c7c801a0586fcd4b878fb38f) (2026-08-05)
+- [[web-animations-1] Add annotations describing exceptions thrown by the API](https://github.com/w3c/csswg-drafts/commit/aafe0da6a622b9db43a38c4dd1410a0690c0a429) (2026-08-05)
+- [[css-navigation-1] Apply CSSWG resolutions (#14264)](https://github.com/w3c/csswg-drafts/commit/3845cfb3fcb0ecec6ca83bbe8675a71d536f7270) (2026-08-04)
+- [[css-over-flow-5] Introduce scroll-axis-lock (#14152)](https://github.com/w3c/csswg-drafts/commit/dd4d35400b94d85260de2bc4504bc08c460c865e) (2026-08-04)
+- [[css-multicol] Drafting implementaion report](https://github.com/w3c/csswg-drafts/commit/f3f92fec735b6a31fd3d823a05b32200a00cdf04) (2026-08-04)
+- [[css-multicol] Initial draft implementation report](https://github.com/w3c/csswg-drafts/commit/b8c37b8972e38a5bd2824f559b4ecac40959a6e6) (2026-08-04)
