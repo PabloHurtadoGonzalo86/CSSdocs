@@ -296,3 +296,48 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-text-4][editorial] Reorder dfns and fix wording](https://github.com/w3c/csswg-drafts/commit/531871bd9d8b81d51ac9e24d87767c35407f9cfb) (2026-08-12)
 - [[css-text-3][css-text-4][editorial] Move paragraph](https://github.com/w3c/csswg-drafts/commit/9c34dbecefe8c22e612c8c338a7372b7987b5cb2) (2026-08-12)
 - [[css-text-3][css-text-4] Switch letter-spacing from between letters to around letters #10193 (#14315)](https://github.com/w3c/csswg-drafts/commit/1fa76c0ae9b5f76456504caf6f373dcce84a525b) (2026-08-12)
+
+---
+
+# Vigilancia semanal de CSS — 2026-08-24
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [typo: block and index flow (#45285)](https://github.com/mdn/content/commit/2c6196c0352ac439f13adc6a0a83d79993ef5a1e) (2026-08-24)
+- [Fix typos (2) (#45282)](https://github.com/mdn/content/commit/1474534461893381d54c502e655f334b5568e597) (2026-08-21)
+- [Grammar: use 'an' before vowel-sound initialisms (HTTP, SVG) (#45269)](https://github.com/mdn/content/commit/44a853a7fce4ef042b6eeddc96f0a587f25704d3) (2026-08-21)
+- [chore: remove unnecessary deprecated_header macros (#45259)](https://github.com/mdn/content/commit/ca6052779ddca9f6d99665f12c39aa2d85d85733) (2026-08-21)
+- [create description and live example for flex-flow (#45227)](https://github.com/mdn/content/commit/b5f3a5af4e7d3bc396ca5dbf159cadaa114f3fd9) (2026-08-19)
+- [fix(css): correct invalid media query syntax in @custom-media example (#45238)](https://github.com/mdn/content/commit/6b0dc010f6c32a23b54aef95094cee9ec0e1b7b5) (2026-08-19)
+- [Fix history.go() link on :target page (#45237)](https://github.com/mdn/content/commit/42f8ef9d26f9a76723a0379a2e7c946db496f27e) (2026-08-19)
+- [docs(css): Improve contain: paint's clipping bounds description (#45138)](https://github.com/mdn/content/commit/65ecf8a285c4139f902eae63ececc6796eb98eaa) (2026-08-18)
+- [docs(css): clarify border-image-slice example source image (#45037)](https://github.com/mdn/content/commit/edb731bcb1ee26be7a4da56cc5b79e552b78865a) (2026-08-18)
+- [New pages: rule-break properties (#45095)](https://github.com/mdn/content/commit/65de0b20f182edef16b58da2df80112b39787a04) (2026-08-18)
+- [Editorial review: Document the flex-wrap balance keyword and flex-line-count property (#44896)](https://github.com/mdn/content/commit/ae836b44d9faa0e9f581631ed1dcccd2a502b618) (2026-08-18)
+- [Module example update: CSS gaps (#45091)](https://github.com/mdn/content/commit/3db375935d88624f69f3ed3977a4508be10642b3) (2026-08-18)
+- [Fix incorrect media feature name in @custom-media example (#45127)](https://github.com/mdn/content/commit/d9ed0d5c39f33dcc48cd7b5710ab59a9701bafd9) (2026-08-18)
+- [Document `font-family: monospace` font size quirk (#45060)](https://github.com/mdn/content/commit/0631b5e26979eca4d1505d4762fd3ad77fb329de) (2026-08-18)
+- [make color-interpolation-method optional and add fallback example (#44904)](https://github.com/mdn/content/commit/138b6273756ffe17de769b760cd2dd23e1301c7d) (2026-08-18)
+- [added release note for progress() (#45198)](https://github.com/mdn/content/commit/2cd2b1303d15452b977a309a9d4e6618d20fc0c0) (2026-08-17)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-image-animation][editorial] Clarify phrasing](https://github.com/w3c/csswg-drafts/commit/1f08d79d0780def6a7831a523e7addd1ff7693fa) (2026-08-24)
+- [[css-image-animation=] Drop distinction between content and decorative images](https://github.com/w3c/csswg-drafts/commit/0eb48905bfc4b60d60a825602530413966af1eb2) (2026-08-24)
+- [[css-forms-1] Rename field-text to field-content (#14361)](https://github.com/w3c/csswg-drafts/commit/a15d7f71cde12307e36424147e2e17f060240544) (2026-08-22)
+- [[css-mixins-1] Drop @macro and @result. Introduce @private. #14004 #13727 #13524 #13680 #14243](https://github.com/w3c/csswg-drafts/commit/27fd597de31a8c43234f99f58983e4af3d1f9282) (2026-08-21)
+- [[css-mixins-1] Remove @macro (mixins cover the use-cases now). #13680](https://github.com/w3c/csswg-drafts/commit/16d7b76ce3a31ceaf2fa732d89f92f73ccc5d58f) (2026-08-20)
+- [[css-values-5] ident() is now an arbitrary-substitution function. #14213](https://github.com/w3c/csswg-drafts/commit/5c4e0fcccf0e4cd01810688dbd72b84faa98788e) (2026-08-20)
+- [[css-values-5] Rename toggle() to cycle(). #14288](https://github.com/w3c/csswg-drafts/commit/de6672a19fc3d1f686c99b6c570417ac8b13898d) (2026-08-20)
+- [[css-values-4] Define 'numeric functions'. #13978](https://github.com/w3c/csswg-drafts/commit/0d7ba31e7f7202a5f1d22c49a38fce5938a43820) (2026-08-20)
+- [[css-values-4][editorial] Fix linking error](https://github.com/w3c/csswg-drafts/commit/f90b03b370d71b0bcdc5d84bca1608d35199fe09) (2026-08-20)
+- [[css-values-4][editorial] Fix doubled definition of <string>.](https://github.com/w3c/csswg-drafts/commit/df3d4f5a6d79628b4a744ddf1951415a758d28a0) (2026-08-20)
+- [[css-link-params-1] Switch to using fragment directives. #14235](https://github.com/w3c/csswg-drafts/commit/e3d2bf1ff9813d8ac372e43ab664c819ba9ade81) (2026-08-19)
+- [[css-values-5][editorial] Move an example further up in the random() section.](https://github.com/w3c/csswg-drafts/commit/8b6ae6dc30cf56bda5712f65bba460c0caaf1f54) (2026-08-12)
+- [Move Viewport example](https://github.com/w3c/csswg-drafts/commit/2f73df31866c23e12acbbdf3289cb2e3f1b3d35c) (2026-06-09)
+- [Move definition of Visual Viewport from CSSOM-View](https://github.com/w3c/csswg-drafts/commit/fdc2288cc8aae4448a74f37309f1e89bfdc6fc1c) (2026-05-11)
+- [[selectors-5] Define the class prefix selector. #10001 #14291](https://github.com/w3c/csswg-drafts/commit/966052ca1f1848c4653ce121c74a47221181da93) (2026-08-18)
+- [linewrapping](https://github.com/w3c/csswg-drafts/commit/357d572678933fb2e625fdb4a7920c36af4af878) (2026-08-18)
+- [Clarify timeline-trigger-source: none](https://github.com/w3c/csswg-drafts/commit/79b16ee1fa2a5fa0c8da3c7cf5a4132d60e8e344) (2026-08-18)
+- [[css-view-transitions-2] Change view transition pseudo elements to be fully styleable (#14132)](https://github.com/w3c/csswg-drafts/commit/48a548cdf1e924afb69a2d9e9c68a421575106f4) (2026-08-18)
+- [[css-fonts-4][editorial] Fix formatting, update changes](https://github.com/w3c/csswg-drafts/commit/7539965d98f6a6aae2933753b28aa505288a14d4) (2026-08-18)
+- [[css-animations-2][editorial] A single animation-delay value resets animation-delay-end (#14336)](https://github.com/w3c/csswg-drafts/commit/0879935226cf9b44a12d72a7f0173f80e3afbd27) (2026-08-18)
+- [[css-fonts-4] clarify the suitability of system-ui (#14326)](https://github.com/w3c/csswg-drafts/commit/2cb84cd81b0bdabd20a2a4f6e705989bd5b53487) (2026-08-17)
