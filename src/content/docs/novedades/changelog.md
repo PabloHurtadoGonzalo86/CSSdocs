@@ -506,3 +506,34 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-color-4] Added many worked examples of equivalent colors](https://github.com/w3c/csswg-drafts/commit/b84e6a9fa82be33e540a24a96e47564eee81c65e) (2026-09-09)
 - [[css-color-4] Clarified that powerless is when less than or equal to the epsilon (spec consistency)](https://github.com/w3c/csswg-drafts/commit/18434b34e5aab65e8b55dab4bd28d6b79d070832) (2026-09-09)
 - [[css-color-4][editorial] Correct explanatory notes on color equivalency](https://github.com/w3c/csswg-drafts/commit/4d4618e15c17bf14d746c8505edfb3d2907787ab) (2026-09-09)
+
+---
+
+# Vigilancia semanal de CSS — 2026-09-21
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Add CSS display: grid-lanes values (#45016)](https://github.com/mdn/content/commit/1017b716a13c17fb4afcc2aefc904692fa670460) (2026-09-21)
+- [Fix typo in `@container` rule description (#45797)](https://github.com/mdn/content/commit/dc6f92b8877c1c53c187ad6cb6ba677db3ab179a) (2026-09-21)
+- [FIX TYPO from 'effect' to 'affect' (#45803)](https://github.com/mdn/content/commit/13d38933aaeea619fe441656e9d8e1bec263331b) (2026-09-21)
+- [Fix typos in CSS animation shorthand reference (#45786)](https://github.com/mdn/content/commit/a8ef14ed998f5554b834200ba9b0ff0425765416) (2026-09-20)
+- [fix(css): remove duplicated word in column-gap description (#45788)](https://github.com/mdn/content/commit/82406a500abd9cd9c9469d9180e62cf9a37deb50) (2026-09-20)
+- [Add a font declaration so that the differences are visible in all browsers (#45789)](https://github.com/mdn/content/commit/874031f6f50908d8679b8debc6bbd807870c8dbb) (2026-09-20)
+- [Synchronize with BCD v8.1.2 (#45766)](https://github.com/mdn/content/commit/76c2e04d720aa8260ba7d75788ed96776aac35c6) (2026-09-18)
+- [Use CSSSyntax macro on `param()` CSS function page (#45738)](https://github.com/mdn/content/commit/216676f18e04a1adcc31fa22b5878b39338671cd) (2026-09-18)
+- [Fix JS code issues (#45754)](https://github.com/mdn/content/commit/9fac65196ac2b9a26afabbcb7f14fd58621916ae) (2026-09-18)
+- [Reset-only sub-properties (#45683)](https://github.com/mdn/content/commit/3f221b9845703eb21db70cdc321f843d5c1c072b) (2026-09-17)
+- [Fix redirects: iana.org (#45755)](https://github.com/mdn/content/commit/a4c63d2855b2f557e7d1ee821dee65011d569a41) (2026-09-17)
+- [Fix redirects (#45757)](https://github.com/mdn/content/commit/03e93e0948768ea78474e77a53795698ebca5836) (2026-09-17)
+- [uniform syntax: /* Keyword values */ (#45727)](https://github.com/mdn/content/commit/880c2c4b113c6fe127ca3ae3603a56ef7a2eb9a6) (2026-09-16)
+- [Fix a typo: `animate` to `animation` (#45734)](https://github.com/mdn/content/commit/0937bc9595c0cc914b82ae9c56b7e1cc52209f25) (2026-09-16)
+- [Editorial review: Document the text-fit CSS property (#45196)](https://github.com/mdn/content/commit/8e307de115d41e9214fcacbd7fe89532756816b4) (2026-09-16)
+- [updated the definition of <dashed-ident> for timeline scopes (#45567)](https://github.com/mdn/content/commit/2a3061b6905ba8a8fe2654e1a6a978bc614bfd66) (2026-09-14)
+- [added the named-feature function and features to @supports at-rule (#45593)](https://github.com/mdn/content/commit/ef4050055cbb6ba03fc245947b47d35252bd2376) (2026-09-14)
+- [Animation See also: link to module pages (#45702)](https://github.com/mdn/content/commit/84058a6d6c891f39718617e98db2a6db1387096b) (2026-09-14)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[selectors-4][editorial] Typo](https://github.com/w3c/csswg-drafts/commit/7b25446fac9b00358a4e887b2543ad77bc1359be) (2026-09-18)
+- [[css-images-4] Define that image(<color>) interpolates as <color>. #13913](https://github.com/w3c/csswg-drafts/commit/a6201123f190cb3fa9660ce1af10890e8201ef8c) (2026-09-18)
+- [[css-images-4][editorial] Fix big text](https://github.com/w3c/csswg-drafts/commit/89ac71fd9c46f3703cfa121470ce1dbc58d9dfd4) (2026-09-18)
+- [[css-forms-1] Apply 4px border-radius to all base appearance controls (#14473)](https://github.com/w3c/csswg-drafts/commit/50c965c30e224f3b8fb7d2310e05b1fea70b8727) (2026-09-17)
+- [[css-forms-1] Lighten background colors in dark mode (#14501)](https://github.com/w3c/csswg-drafts/commit/72ad0681f3346991ce0ae9b71d41721ccbfcaba7) (2026-09-17)
