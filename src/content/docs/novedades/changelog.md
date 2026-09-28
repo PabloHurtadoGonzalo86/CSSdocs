@@ -537,3 +537,27 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-images-4][editorial] Fix big text](https://github.com/w3c/csswg-drafts/commit/89ac71fd9c46f3703cfa121470ce1dbc58d9dfd4) (2026-09-18)
 - [[css-forms-1] Apply 4px border-radius to all base appearance controls (#14473)](https://github.com/w3c/csswg-drafts/commit/50c965c30e224f3b8fb7d2310e05b1fea70b8727) (2026-09-17)
 - [[css-forms-1] Lighten background colors in dark mode (#14501)](https://github.com/w3c/csswg-drafts/commit/72ad0681f3346991ce0ae9b71d41721ccbfcaba7) (2026-09-17)
+
+---
+
+# Vigilancia semanal de CSS — 2026-09-28
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [docs(css): remove duplicate "property" in grid auto-placement guide (#45855)](https://github.com/mdn/content/commit/d6179808aed77188b778b9fbeaa89097978bc318) (2026-09-28)
+- [Clarify behavior of 'normal' value in row-rule-break (#45848)](https://github.com/mdn/content/commit/b6f3d1e0efeff683860ea49a89730ef90643e955) (2026-09-25)
+- [Rewrite most of `counter-reset` (#45480)](https://github.com/mdn/content/commit/a326384789bf2f13f96506d4e2fdb4688d873cd0) (2026-09-25)
+- [rule-inset-cap has two values (#45830)](https://github.com/mdn/content/commit/16bd5315b5fa374b4fa37e3c8907614c987f4275) (2026-09-24)
+- [new page: column-rule-inset-junction-end (#45772)](https://github.com/mdn/content/commit/c297ca81510b69e602e8fef4732d558b7ed020b0) (2026-09-24)
+- [Add view() function to scroll-driven animations intro (#45820)](https://github.com/mdn/content/commit/f538091795d2ae7ddde4c03d939bd6efb451ef39) (2026-09-22)
+- [New pages: CSS `*-rule-inset-cap-*` properties (#45726)](https://github.com/mdn/content/commit/2c2390b77141b960cac32c1843dac4d907e9c6c2) (2026-09-22)
+- [Fix grammar and typos in CSS, JavaScript, and SVG docs (#45817)](https://github.com/mdn/content/commit/298079b550c76f20de6611c4ecdde4c30dc68b2b) (2026-09-22)
+- [updated the value for `text-decoration-inset` (#45028)](https://github.com/mdn/content/commit/3a04f324f1fb55e3c073c32d0ead28b5803a6284) (2026-09-22)
+- [Fix internal links (#45752)](https://github.com/mdn/content/commit/2e0b9415ed31484a4830e214eff9e06e408c7261) (2026-09-22)
+- [Add random() to CSS functions page (#45810)](https://github.com/mdn/content/commit/08a5a4313166a8f36f8c0c1320ac970423239b9a) (2026-09-21)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-color-4][editorial] WPT](https://github.com/w3c/csswg-drafts/commit/bbb1d87033095f792421c668c4211bc4f00cfe93) (2026-09-26)
+- [[scroll-animations] make `ViewTimelineOptions.subject` a required member (#14526)](https://github.com/w3c/csswg-drafts/commit/d1232f978ae92d4b4c04c9b4d5fe82cd0f5ddf86) (2026-09-25)
+- [[scroll-animations-1] Fix progress calculation for a View Progress Timeline (#10960)](https://github.com/w3c/csswg-drafts/commit/c4def7738dfa46433a522ca362888bb2fd1b26df) (2026-09-24)
+- [[web-animations-1] Simplify implicit keyframes and specify their easing](https://github.com/w3c/csswg-drafts/commit/6af231570796919c1d7d731551ba98fc31ff97e3) (2026-09-23)
+- [[filter-effects-1] Document Clickjacking Attacks (#13846)](https://github.com/w3c/csswg-drafts/commit/d3e4fc5eced2be0f70c1ba9cb7d23d3c54e2dec6) (2026-09-22)
