@@ -561,3 +561,47 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[scroll-animations-1] Fix progress calculation for a View Progress Timeline (#10960)](https://github.com/w3c/csswg-drafts/commit/c4def7738dfa46433a522ca362888bb2fd1b26df) (2026-09-24)
 - [[web-animations-1] Simplify implicit keyframes and specify their easing](https://github.com/w3c/csswg-drafts/commit/6af231570796919c1d7d731551ba98fc31ff97e3) (2026-09-23)
 - [[filter-effects-1] Document Clickjacking Attacks (#13846)](https://github.com/w3c/csswg-drafts/commit/d3e4fc5eced2be0f70c1ba9cb7d23d3c54e2dec6) (2026-09-22)
+
+---
+
+# Vigilancia semanal de CSS — 2026-10-05
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Editorial review: Document scroll-triggered animations (#43158)](https://github.com/mdn/content/commit/4aba58b4ad2745a73054f60b6d649d8e29b7b44d) (2026-10-05)
+- [fix height of examples (#45980)](https://github.com/mdn/content/commit/714b29574d287b6501ca3ebffb5f0f5ace0c6368) (2026-10-05)
+- [Height of EmbedLiveSample (#45979)](https://github.com/mdn/content/commit/f1e792d66f656c235b3c91a905b58cc7f7f1cca0) (2026-10-05)
+- [fix: resolve weekly spelling check findings (#45971)](https://github.com/mdn/content/commit/381fc52124e4be7d5b1bde38be75b95432f59dd7) (2026-10-05)
+- [Fix "Handling the return value" example (#44627)](https://github.com/mdn/content/commit/31e1fcaa50ff25bb27d7093758fa7a7088fff1e0) (2026-10-02)
+- [New guide: Defining CSS gaps (#44975)](https://github.com/mdn/content/commit/71fd49d60a856bd15c6fe2e8328147c9d3bcc67d) (2026-10-01)
+- [Add @supports to column-height property (#45849)](https://github.com/mdn/content/commit/25e50f8d5b36eb86d40916f6f06051671333f3a7) (2026-10-01)
+- [Fix JS code problems (#45866)](https://github.com/mdn/content/commit/b60c5dad8cf10d8492f2aff491abb40bf1851b03) (2026-09-30)
+- [Update Values lead-in line for text-fit (#45737)](https://github.com/mdn/content/commit/cc66520c973185b32319769333271680832a854e) (2026-09-29)
+- [fix(css): outline contrast is governed by SC 1.4.11, not text contrast (#45769)](https://github.com/mdn/content/commit/4371d98674430c6693a5111df85438e7f5aa8fb7) (2026-09-29)
+- [docs(css): align revert-rule keyword title (#45922)](https://github.com/mdn/content/commit/da614d19956cb816e3289721e079ded286c34a43) (2026-09-29)
+- [Fix CSS code problems (#45865)](https://github.com/mdn/content/commit/b7e9f482c51817d3a885e26092f8219fd0d9d278) (2026-09-28)
+- [Fix broken links (#45861)](https://github.com/mdn/content/commit/15e1155ab8a0587405601cc4753bb789cd6ac47c) (2026-09-28)
+- [fix(css): update hyphenate-limit-chars values (#45079)](https://github.com/mdn/content/commit/367f942b096f97d4c3063e31a0dc5002736db81b) (2026-09-28)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[filter-effects-2][editorial] Fixed markup error](https://github.com/w3c/csswg-drafts/commit/dddf78d1aec8935ae6fdb836e38459142e58dc59) (2026-10-02)
+- [[css-syntax-3][editorial] Back to ED](https://github.com/w3c/csswg-drafts/commit/d06dc03e286cadddd43e524a7d2edad62d6a225a) (2026-10-01)
+- [[css-scroll-anchoring-1][editorial] Fixed heading closing tag](https://github.com/w3c/csswg-drafts/commit/f505fd10877a9c915b5d4a4028c2ad83c76d006f) (2026-09-30)
+- [[css-color-4] Removed "If H is missing, a = b = 0" from LCH and Oklch conversion code, which hindered round-tripping. Fix #14530](https://github.com/w3c/csswg-drafts/commit/9c50d377bb4ccd9f9f513a352d84fa750e6f51b1) (2026-09-30)
+- [Update CSS syntax level 3 spec](https://github.com/w3c/csswg-drafts/commit/897bfd4892fce26f3dc12fee9af103edfc179fee) (2026-09-30)
+- [[css-syntax-3][editorial] Add WPT annotations](https://github.com/w3c/csswg-drafts/commit/4a29e09e9a2dbb09f505fbce7d145875ec25b1de) (2026-09-29)
+- [[css-syntax-3][editorial] Add required link to implementation report](https://github.com/w3c/csswg-drafts/commit/29f1bc46c89b0fcee23a956f990e2ae4dd499e4e) (2026-09-29)
+- [minor changes](https://github.com/w3c/csswg-drafts/commit/2d516d4e96718e36bb1f688ddfde3f58b487fdec) (2026-09-10)
+- [apply minors](https://github.com/w3c/csswg-drafts/commit/9c3f60869c2ac4c29b28ed1208ce72cbbf4f30ae) (2026-09-09)
+- [remove particular note](https://github.com/w3c/csswg-drafts/commit/dbe47b3f7b63f77430edb3dfefb3bd0f78bb882e) (2026-08-26)
+- [Revert note change and add specific example *](https://github.com/w3c/csswg-drafts/commit/8a31421288e137435d0271c151fcadd851d6d134) (2026-08-10)
+- [Add ::highlight(*)](https://github.com/w3c/csswg-drafts/commit/568abd3523753be7373a81a35fc0df3833f568ee) (2026-08-10)
+- [[css-scroll-snap-1] Clarify writing mode resolution for scroll-snap-align](https://github.com/w3c/csswg-drafts/commit/efada14c30fe06f2382fd4c359360b11ce6007de) (2026-09-08)
+- [[css-scroll-snap-1] Single axis scroll snap](https://github.com/w3c/csswg-drafts/commit/d603df842a61e072a11cf7847c54a7ff2d46262c) (2026-08-18)
+- [[css-scroll-snap-1] Only scroll containers capture snap positions. #14445](https://github.com/w3c/csswg-drafts/commit/528b2e31b905ff8fd150ab8623a2b300503a2cca) (2026-09-28)
+- [wording](https://github.com/w3c/csswg-drafts/commit/865f97aae477cf892c084cb1c735101fdd7ca28b) (2026-09-13)
+- [tabs spaces 2](https://github.com/w3c/csswg-drafts/commit/af8f28fb7f421ac345ae19247bc15ba74254a29d) (2026-09-13)
+- [tabs spaces](https://github.com/w3c/csswg-drafts/commit/00e172809a6714918ce47ef491e46f8a62e1b3f0) (2026-09-13)
+- [and the text changes](https://github.com/w3c/csswg-drafts/commit/ff5c2295efcbe4b9fd56d0530847bcd6208ce4cc) (2026-09-13)
+- [fixes from review](https://github.com/w3c/csswg-drafts/commit/46a35a2cdcf3a29655a8d21027cf7ad141404540) (2026-09-13)
+- [Apply suggestion from @JoshTumath](https://github.com/w3c/csswg-drafts/commit/1d0d5efcdb167baa6be4d5c9b203db55993d5589) (2026-08-30)
+- [[css-fonts-5] Add more meta text scale examples](https://github.com/w3c/csswg-drafts/commit/b78b59c1f26aedc46499c756465b6b234ad0fed7) (2026-06-05)
