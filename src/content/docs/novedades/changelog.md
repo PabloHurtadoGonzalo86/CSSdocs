@@ -656,3 +656,43 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-counter-styles-3] Make UA-drawn symbol exception compatible with 'content'](https://github.com/w3c/csswg-drafts/commit/d8fdab81ac7ca1cdcaf431b434d3e2901a5ba81a) (2026-10-08)
 - [[css-counter-styles-3][css-content-3] Move predefined symbolic counter styles production to css-counter-styles](https://github.com/w3c/csswg-drafts/commit/26ec9eae5a9c933aa48963315bb7ce26d5435861) (2026-10-08)
 - [[css-content-3][editorial] Cleanup](https://github.com/w3c/csswg-drafts/commit/b63714cce17fc1c0a5fbc2ff958554c9ba4c256e) (2026-10-08)
+
+---
+
+# Vigilancia semanal de CSS — 2026-10-19
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Delete fallback instructions for :focus-visible (#46172)](https://github.com/mdn/content/commit/c6309d2f8bbdaf08095d8c2cc8bb9c16b6a94acc) (2026-10-16)
+- [New guides: defining CSS rules (#46121)](https://github.com/mdn/content/commit/f641d1e7c63d8300c9ff1c6a24158a80e1f24ab0) (2026-10-16)
+- [Refactor CSS counter guide (#45481)](https://github.com/mdn/content/commit/f60b6627900af0ba2132de74c77829fa6c189b57) (2026-10-15)
+- [Make sure forms in live samples don't submit (API/CSS) (#45920)](https://github.com/mdn/content/commit/bf3b0f3217d5d5a6957e9e17f863ece19d939d20) (2026-10-14)
+- [Added `overscroll-behavior: chain;` to shorthand and longhand properties (#45834)](https://github.com/mdn/content/commit/151d527b2d48812d732cb4f3fdffa0737682e684) (2026-10-13)
+- [Revise scrollbar colors in CSS guide (#46113)](https://github.com/mdn/content/commit/553d17671f5fec31365fedfaad8e5343d14c0bd8) (2026-10-13)
+- [Fix typo in image() page: spacial -> spatial (#46116)](https://github.com/mdn/content/commit/3a4e7cc6b2104a8b8e64bfece1924ef065328784) (2026-10-12)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-contain-2] Define skipped media playback behavior (#6468)](https://github.com/w3c/csswg-drafts/commit/40527902c4d0840cdb7a808c8cd42302be1c3bc8) (2026-10-15)
+- [[css-syntax-3][editorial] Removed old Changes section, started new one for the Oct 1 2026 draft](https://github.com/w3c/csswg-drafts/commit/7b4c69ecaf9289d1bd5455d6bea10eec0b4a4399) (2026-10-16)
+- [[css-syntax-3] Removing lingering reference to 'parse a block's contents'.](https://github.com/w3c/csswg-drafts/commit/9d0bb83d67f8d74f0891b9cae2991195e7a3d1bf) (2026-10-16)
+- [Update Overview.bs](https://github.com/w3c/csswg-drafts/commit/b10bc5fa24328f3ac8290ce0e89c2ac961bc4b50) (2026-10-16)
+- [Apply suggestion from @tabatkins](https://github.com/w3c/csswg-drafts/commit/c5a48cf6164d007177d07e4afdcfa01ca8d16b9c) (2026-10-16)
+- [Apply suggestion from @tabatkins](https://github.com/w3c/csswg-drafts/commit/6e2f4f772d91fcbb54a6e9c63a764f6304d572df) (2026-10-16)
+- [Apply suggestion from @tabatkins](https://github.com/w3c/csswg-drafts/commit/ae27e63e5c9f03060bc7d6667b85348d0732fbd3) (2026-10-16)
+- [[mediaqueries-5] Add application display-mode and allow concurrent matches](https://github.com/w3c/csswg-drafts/commit/070e0210db0076255d8ceb31a4ceda7ecb57dd2e) (2026-10-09)
+- [[css-fonts-4] Further clarify that kerning is for proportional glyphs only #6723](https://github.com/w3c/csswg-drafts/commit/a17071ddd3a207698d6b5625234a71268a008c13) (2026-10-16)
+- [[css-fonts-4][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/765841bcacb2e85a6692230f742ea55f00d4dd08) (2026-10-16)
+- [[css-fonts-4] Clarified that kerning applies to proportionally-spaced glyphs only. Removed inaccurate claim that OpenType encourages that kerning be on by default. #6723](https://github.com/w3c/csswg-drafts/commit/b1af0bd2f2d02dc19da3cbb584f3a7fa2dc0d83c) (2026-10-16)
+- [[animation-triggers][editorial] Back to ED](https://github.com/w3c/csswg-drafts/commit/4ec52dfa91903ffabe6972a10e723607d587dd85) (2026-10-16)
+- [[animation-triggers] Link fix](https://github.com/w3c/csswg-drafts/commit/480dcbee85e1396d9995bfd9fb7f7c591e69484b) (2026-10-16)
+- [[animation-triggers][editorial] Fixes for FPWD](https://github.com/w3c/csswg-drafts/commit/bb0aaedc7bcf2ee59a732a2d9689ccbbccb566be) (2026-10-15)
+- [[css-images-5][editorial] Fix typo in explainer](https://github.com/w3c/csswg-drafts/commit/52e9ad7ad07fe980851cd261d892c90b3171119a) (2026-10-16)
+- [[css-overflow] test coverage update](https://github.com/w3c/csswg-drafts/commit/4efceeb3cef5150cf3bf6909aa300b4194ac3872) (2026-10-16)
+- [[css-images-5] Add Josh Tumath as editor](https://github.com/w3c/csswg-drafts/commit/11d28b47ff480e10f6935b6d4dd3974e3297f1c5) (2026-10-15)
+- [[animation-triggers-1] Set correct namespace for definitions](https://github.com/w3c/csswg-drafts/commit/90e797a41356bab0dc637931238f52c2e31302ca) (2026-10-14)
+- [[css-pseudo-4][editorial] Restore accidentally-deleted chapter.](https://github.com/w3c/csswg-drafts/commit/a0d60921d33164a0b749ff71f40e91935fa96725) (2026-10-15)
+- [[css-mixins-1] Make @layer invalid within a mixin body. #12417](https://github.com/w3c/csswg-drafts/commit/163773201e9f99a3a327357af45499938ff0c74d) (2026-09-14)
+- [[css-pseudo-4] Whoops, add missing image](https://github.com/w3c/csswg-drafts/commit/6e477b9d3d4759f4c8853685fa1fe55c0f0f3a7e) (2026-10-15)
+- [[css-pseudo-4][css-ui-4][selectors-5] Tweaks around 'interest' to adopt a little more of the definitions into CSS. #12347](https://github.com/w3c/csswg-drafts/commit/247bc6b2f2fb8098aa27654316e2a2e968ee74bb) (2026-10-15)
+- [[css-overflow] Update test coverage](https://github.com/w3c/csswg-drafts/commit/f84599e9b42cb5b159ba5ca08cc9fdcc5f829145) (2026-10-15)
+- [[css-overflow] Clarify effect of visual supporession on baselines (#14609)](https://github.com/w3c/csswg-drafts/commit/26180f5edc418eb3555c1d1299214747480ce15e) (2026-10-15)
+- [[css-borders-4] Fix corner-shape || border-radius order to match resolution in #11623 (#14607)](https://github.com/w3c/csswg-drafts/commit/9defc4a4a33dfec989a2180c1aedaf8177205a0c) (2026-10-15)
