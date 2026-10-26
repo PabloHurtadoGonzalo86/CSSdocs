@@ -696,3 +696,46 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-overflow] Update test coverage](https://github.com/w3c/csswg-drafts/commit/f84599e9b42cb5b159ba5ca08cc9fdcc5f829145) (2026-10-15)
 - [[css-overflow] Clarify effect of visual supporession on baselines (#14609)](https://github.com/w3c/csswg-drafts/commit/26180f5edc418eb3555c1d1299214747480ce15e) (2026-10-15)
 - [[css-borders-4] Fix corner-shape || border-radius order to match resolution in #11623 (#14607)](https://github.com/w3c/csswg-drafts/commit/9defc4a4a33dfec989a2180c1aedaf8177205a0c) (2026-10-15)
+
+---
+
+# Vigilancia semanal de CSS — 2026-10-26
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Fix numbers of `<rect>` elements in examples (#46256)](https://github.com/mdn/content/commit/b94f607de0017642074f3466e20cbd9017a1b150) (2026-10-25)
+- [Synchronize with BCD v8.1.7 (#46245)](https://github.com/mdn/content/commit/85577061e99da7082b48263fa19f9b1ef4187eda) (2026-10-23)
+- [Fix broken example on `animation-range-end` page (#46195)](https://github.com/mdn/content/commit/3144662126702b3473a0c9537c5ec8ff61457ff5) (2026-10-22)
+- [chore(attachments): compress images flagged by sharp-based filecheck (#46004)](https://github.com/mdn/content/commit/16c47861d766f442b9f2bffc40c02ef64ae3b545) (2026-10-22)
+- [Fix spec URL for :local-link selector (#46170)](https://github.com/mdn/content/commit/e59d26003fa9f0a91ae316fad08c5977cf69908b) (2026-10-22)
+- [Fix links to broken website (#46221)](https://github.com/mdn/content/commit/b25798255cfb773885c94557b74179400ac7153d) (2026-10-21)
+- [Document that `font-family: cursive` is Comic Sans MS on Windows (#45851)](https://github.com/mdn/content/commit/e7ee9edb037573b84aca121a0bce4f3f700f3fa3) (2026-10-21)
+- [Update reset and position-anchor:auto information relating to implicit anchor association (#45550)](https://github.com/mdn/content/commit/93149226b6b94a770731d262508f5c4aa10bcbed) (2026-10-20)
+- [fix: use shared font assets in examples (#46215)](https://github.com/mdn/content/commit/72af34c38ae0d97bc3c9bde4998d538bcc56634a) (2026-10-20)
+- [docs(css): clarify filter value clamping (#46182)](https://github.com/mdn/content/commit/cff28ac91efd68d0809779c81902bd080f614a1d) (2026-10-20)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-color-5] fix links to `none` (#14659)](https://github.com/w3c/csswg-drafts/commit/001f0eff431c5fa4df0a362d095df4da029f61c4) (2026-10-26)
+- [[css-color-5][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/be84fe9ea0871e580eb1e4b6e90dacc8e9ea88f3) (2026-10-26)
+- [[css-color-5] Clarify channel keywords with "none" in math expressions #10280](https://github.com/w3c/csswg-drafts/commit/7d677b2f04a68fb1795dc3a92f36d57fdb427bbc) (2026-10-26)
+- [Remove a duplicated that in the empty pseudo-class note](https://github.com/w3c/csswg-drafts/commit/40f6168f570d4a26083c497c3874bef8490471f3) (2026-10-26)
+- [Fix the spelling of non-noticeable](https://github.com/w3c/csswg-drafts/commit/d34546cd4df029f873a23a37a0e1941bd18b13ae) (2026-10-26)
+- [Remove the duplicated is in the JND description](https://github.com/w3c/csswg-drafts/commit/bae8a39e419454cb27dd06e77323de466f81a2df) (2026-10-26)
+- [Fix the missing parenthesis in the PQ decoding example](https://github.com/w3c/csswg-drafts/commit/038b8654d252dd7e240ffcf7ffe7eaa88998d3ee) (2026-10-26)
+- [Define the inverse PQ exponent in Jzazbz_to_LMS](https://github.com/w3c/csswg-drafts/commit/d6ef4eb827b60468a3f477d033540b2f1cb7052c) (2026-10-26)
+- [Correct matrix multiplication order in Jzazbz inverse conversions](https://github.com/w3c/csswg-drafts/commit/ba82c73b56ae1de70a35b5d108658470dda35e51) (2026-10-26)
+- [[css-color] fix typos and update examples](https://github.com/w3c/csswg-drafts/commit/2205cd97a8c41bcd5cdfe54032e00f270c3cf7e8) (2026-10-26)
+- [[css-images-5][editorial] Update Josh Tumath contact URL](https://github.com/w3c/csswg-drafts/commit/e1bd39185acd650512f82e1eeb7b94da21b686c7) (2026-10-23)
+- [[css-fonts-4] Normatively state the dependency on palt for kerning #6723](https://github.com/w3c/csswg-drafts/commit/a1dd3973e461e13cfe2d56a3513948882e595034) (2026-10-22)
+- [[css-color-4][editorial] Start on explainer for TAG review](https://github.com/w3c/csswg-drafts/commit/3a7b0fbdae9da8c4f86fcc32b57fb32e5dbe75a7) (2026-10-22)
+- [[css-font-loading-3] More fixes to 11aef64584da64cd350bd221fc598adf6ec40894](https://github.com/w3c/csswg-drafts/commit/dba3578b7ac1bbd53bea5541b0574ff77c071281) (2026-10-22)
+- [[css-font-loading-3] Fix the IDL broken in 11aef64584da64cd350bd221fc598adf6ec40894](https://github.com/w3c/csswg-drafts/commit/79059f56c6c50a836689ea418f932b1b704140e9) (2026-10-22)
+- [[mediaqueries-5] Let browser match when the browser display mode is in use #14125](https://github.com/w3c/csswg-drafts/commit/bfd43540f322166435c45432c7564b2f4da14acb) (2026-10-19)
+- [[css-egg-1][editorial] Corrected count of random value units](https://github.com/w3c/csswg-drafts/commit/87bb2a43c1050ea6be46084b476993c6038e684a) (2026-10-22)
+- [[css-align-3][css-grid-3] Define flow-start/end alignment aliases (#14052) (#14539)](https://github.com/w3c/csswg-drafts/commit/3110cd02e77fa9e3869e433e1d40f615b6e611e4) (2026-10-21)
+- [[css-image-animation-1][editorial] Update changes, also test auto-publish](https://github.com/w3c/csswg-drafts/commit/981db3b2ca7ebd2bbfcf11a33f9967f20b333260) (2026-10-21)
+- [set css-image-animation-1 to autopublish](https://github.com/w3c/csswg-drafts/commit/3eaa77879a6267f1eb9737cd8e051f81f921f427) (2026-10-21)
+- [[css-masking-1] Clarify how clipping and masking respond to fragmentation](https://github.com/w3c/csswg-drafts/commit/0c7a1a2a51398cada2b93dd243c27bbac73ce3ac) (2026-08-18)
+- [[css-content-3] Fix missed rename](https://github.com/w3c/csswg-drafts/commit/687801bb221d2d31c2f473f86c15b388be9b2f5f) (2026-10-21)
+- [[css-color-5] <alpha> is required in alpha() #14070](https://github.com/w3c/csswg-drafts/commit/b186fae25203333688daa3e502eebe6b2aa608dc) (2026-08-19)
+- [[css-values-4][editorial] Separate ambiguous "and"/"or" with a comma](https://github.com/w3c/csswg-drafts/commit/f43d8bfcfdfd073cdf6d87f626a6831e1507dc8a) (2026-08-24)
+- [[selectors-5] Add grammar of class prefix selector](https://github.com/w3c/csswg-drafts/commit/37db3e68240671854dab8ff8f4ad641c8e958f5a) (2026-08-27)
