@@ -739,3 +739,37 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-color-5] <alpha> is required in alpha() #14070](https://github.com/w3c/csswg-drafts/commit/b186fae25203333688daa3e502eebe6b2aa608dc) (2026-08-19)
 - [[css-values-4][editorial] Separate ambiguous "and"/"or" with a comma](https://github.com/w3c/csswg-drafts/commit/f43d8bfcfdfd073cdf6d87f626a6831e1507dc8a) (2026-08-24)
 - [[selectors-5] Add grammar of class prefix selector](https://github.com/w3c/csswg-drafts/commit/37db3e68240671854dab8ff8f4ad641c8e958f5a) (2026-08-27)
+
+---
+
+# Vigilancia semanal de CSS — 2026-11-02
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Explain the typographic rationale for text-autospace (#46251)](https://github.com/mdn/content/commit/c91282d3f1f546ba4bc98a107ef97ce298846a91) (2026-10-28)
+- [Fix a typo: `link-parameters` is a property, not a function (#46258)](https://github.com/mdn/content/commit/5738cef418354ffa76a451281312fec98a7aad63) (2026-10-28)
+- [Fix typos (#46318)](https://github.com/mdn/content/commit/a4ff34eef85ccb654c5c3af7974caba396e8adcf) (2026-10-28)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-color-4][editorial] Add alt text to diagram.](https://github.com/w3c/csswg-drafts/commit/ef54980c5b429353f4d9946c7be475275ee29df5) (2026-11-02)
+- [[css-color-4] Demonstrated how interpolation can produce out of gamut colors](https://github.com/w3c/csswg-drafts/commit/a26d67b414724bf8c1d8b27d1834aa9dd8be9aad) (2026-11-02)
+- [[css-color-4][editorial] Add diagram showing how interpolation in a polar space can produce out of gamut colors, even if the start and end colors are in gamut](https://github.com/w3c/csswg-drafts/commit/28e1377a3b19b7ac7a284dbf37e02662324b282c) (2026-11-02)
+- [[css-images-4] Reference css-color-4 for color interpolation and for interpolation color space](https://github.com/w3c/csswg-drafts/commit/4b2261c0b00b31517c6779865c6cabe3ab45f0b6) (2026-11-02)
+- [[css-fonts-4] Define font feature value serialization](https://github.com/w3c/csswg-drafts/commit/bfd05e08ef767df66285fb63b8a7dc7d1dde47f9) (2026-10-26)
+- [Fix atttribute typo in examples for <meta name=color-scheme>](https://github.com/w3c/csswg-drafts/commit/fc3afa7b2f8ae4efe724da7f88f42b00499ce94c) (2026-10-30)
+- [guard against a few more edge cases](https://github.com/w3c/csswg-drafts/commit/1cf991828d3168a30947772fbdfaee0c4b44a96e) (2026-10-31)
+- [add anchor clamp](https://github.com/w3c/csswg-drafts/commit/de8437bf9c2300c3ecd4cfdd4f8f0b89c199ea8e) (2026-10-31)
+- [[css-color-4] adjust raytracing algorithm to account for some edge cases](https://github.com/w3c/csswg-drafts/commit/16d99fc592289bc1db2272ad057733afdadc6c35) (2026-10-31)
+- [[css-color-4][editorial] remove obsolete commented-out geometric GMA #7653](https://github.com/w3c/csswg-drafts/commit/2cc20d2a6468b710f240c26288bec8465748107e) (2026-10-29)
+- [[css-color-4] Use epsilon in rgb to hsl sample code #14531](https://github.com/w3c/csswg-drafts/commit/42d4d796584b070a7e68935eed58831e28bfe469) (2026-10-29)
+- [[css-color] fix typos (#14682)](https://github.com/w3c/csswg-drafts/commit/f7a812d7ef31d9c80ccb598dc0a0fa28423a8f85) (2026-10-29)
+- [[css-counter-styles-3][editorial] fix biblio ref](https://github.com/w3c/csswg-drafts/commit/700ba7b5e6ea39623b68a2a0575c2bb89c640d54) (2026-10-27)
+- [[css-counter-styles-3] Add nko-ordinal. #8988](https://github.com/w3c/csswg-drafts/commit/674d876257873dddad2648315e32b2e5bcc789ac) (2026-10-27)
+- [[css-counter-styles-3] Drop the -informal suffixes (and -formal from korean-hangul), leaving the old values as aliases. #12312](https://github.com/w3c/csswg-drafts/commit/10ae270718401a8daf9dc02def5a8e065744d2ad) (2026-10-27)
+- [[css-sizing-4][css-values-5][editorial] Updated Changes](https://github.com/w3c/csswg-drafts/commit/85dd3a951d5fee607215944ae51a91a45722c5a5) (2026-10-27)
+- [[css-sizing-4][css-values-5] Move calc-size() and interpolate-size to Sizing 4. #14502](https://github.com/w3c/csswg-drafts/commit/ee30871a66d312e3ea0e1025f383cdca9cebd64a) (2026-10-27)
+- [[css-color-4] Clarified setting "colorful" components to zero when changing a powerless hue component to a missing component, #14531](https://github.com/w3c/csswg-drafts/commit/1da0d9fb61d62f53e893b58f85bd109f0c8b9321) (2026-10-27)
+- [[css-color-4] Add sample JavaScript for powerless to missing handling (#14674)](https://github.com/w3c/csswg-drafts/commit/81ee91c4c8f5d193837cb9bd738e08ad4a1f2fb6) (2026-10-27)
+- [[css-conditional-5] Add `matchContainer()` and `ContainerQueryList` interface (#13551)](https://github.com/w3c/csswg-drafts/commit/e405e564cc5f24474ce271520300eb33c8421522) (2026-10-27)
+- [[css-text-4][editorial] Changes section #13789](https://github.com/w3c/csswg-drafts/commit/33d168d9c3bfd7bda4babaa208edfd13c82fbb52) (2026-10-26)
+- [[css-text-4] Add back full value space of text-spacing-trim #13789](https://github.com/w3c/csswg-drafts/commit/6dbb905c3fb7f72fdd981a56761ff0e8397dd3a2) (2026-10-26)
+- [[css-text-4] Clarify text-spacing: insert | replace #13774](https://github.com/w3c/csswg-drafts/commit/06088e7d636d2d5399c93a723d6783ba7fa71754) (2026-10-26)
