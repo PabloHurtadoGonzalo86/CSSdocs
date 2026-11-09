@@ -773,3 +773,42 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [[css-text-4][editorial] Changes section #13789](https://github.com/w3c/csswg-drafts/commit/33d168d9c3bfd7bda4babaa208edfd13c82fbb52) (2026-10-26)
 - [[css-text-4] Add back full value space of text-spacing-trim #13789](https://github.com/w3c/csswg-drafts/commit/6dbb905c3fb7f72fdd981a56761ff0e8397dd3a2) (2026-10-26)
 - [[css-text-4] Clarify text-spacing: insert | replace #13774](https://github.com/w3c/csswg-drafts/commit/06088e7d636d2d5399c93a723d6783ba7fa71754) (2026-10-26)
+
+---
+
+# Vigilancia semanal de CSS — 2026-11-09
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [chore: fix content issues (#46385)](https://github.com/mdn/content/commit/2a563c927890794b513523649ccfbbe48d336465) (2026-11-05)
+- [Clarify the role of flex formatting contexts (#46317)](https://github.com/mdn/content/commit/6cc5111618cee56a288f3c4354acd2330f893434) (2026-11-05)
+- [New pages: row and column junction start and end (#45978)](https://github.com/mdn/content/commit/068c46001316cf268128ab7a26b33fd5705cde1b) (2026-11-04)
+- [Unify page structures for filter-function pages (#43581)](https://github.com/mdn/content/commit/35b1d907e22f58fcd01fc5d3d22f1e73089c7f3d) (2026-11-03)
+- [Fix weekly spelling 46350 (#46354)](https://github.com/mdn/content/commit/05b21c9303964f221febe77f053e5636f230afe9) (2026-11-03)
+- [Document FontFace.sizeAdjust and its constructor option (#46210)](https://github.com/mdn/content/commit/106f215d6fb32a7ee0afe09f01a82323d39cd1f0) (2026-11-03)
+
+## CSSWG Drafts — cambios en especificaciones
+- [Fix the changelog link to PR 14388](https://github.com/w3c/csswg-drafts/commit/b6771fb696ca00cc4083643b6995261db6341eab) (2026-11-07)
+- [Fix links to deferred Selectors Level 5 features](https://github.com/w3c/csswg-drafts/commit/5b65dd3a82c1019dca6158823e995a52d1d4204a) (2026-11-07)
+- [[css-values-5] Update Changes list](https://github.com/w3c/csswg-drafts/commit/2da1cb17a43306d3ef80d09d328883c71cdb54b2) (2026-11-06)
+- [[css-gaps-1] Define gap segments (#14637)](https://github.com/w3c/csswg-drafts/commit/7043197887aebbc55fc967ad6de7f563609ba9c7) (2026-11-06)
+- [[cssom-view-1] Give "determine the device pixel ratio" a Document parameter (#14724)](https://github.com/w3c/csswg-drafts/commit/3bec259fec908ba09b53a3a14bc6af734d245106) (2026-11-05)
+- [[css-mixins-1] Empty args are allowed and trimmed, final trailing comma is like JS. #14370](https://github.com/w3c/csswg-drafts/commit/909869d6b501d19e4bf632e458848f3c81af425f) (2026-11-04)
+- [[css-mixins-1][editorial] Add a non-normative section describing how initial/inherit work.](https://github.com/w3c/csswg-drafts/commit/bd31cb0f8e00ddde77b3c1eba58a9b92b8c4f5d5) (2026-11-04)
+- [[css-mixins-1] No, 'result' *does* have a type, silly, it's the return type like the resolve algo says.](https://github.com/w3c/csswg-drafts/commit/d069cab7faf6cfa8a181203a46fe6ce85563df5b) (2026-11-04)
+- [[css-fonts-4][editorial] Update acknowledgments](https://github.com/w3c/csswg-drafts/commit/0646795e93cee4741804ca23625a675c731711e6) (2026-11-04)
+- [[css-fonts-4] Added explicit algorithms for both horizontal and vertical kerning, defining which combinations of features to use #6723](https://github.com/w3c/csswg-drafts/commit/0a718ceea22e91739dc309b8a2548ee4804110cf) (2026-11-04)
+- [[css-fonts-4][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/671b3c11a3ffb730ba870978e3f5f704409bdaaf) (2026-11-04)
+- [[css-mixins-1][editorial] Export a few terms](https://github.com/w3c/csswg-drafts/commit/b08eb9fa2c31e12086adfda02e06dc195b9080e3) (2026-11-04)
+- [[css-fonts-5][editorial] wpt](https://github.com/w3c/csswg-drafts/commit/307cfbb220ae3893d4d7b3b7f639a1c726de6e3c) (2026-11-04)
+- [[mediaqueries-5] Add prefers-bold-text media feature](https://github.com/w3c/csswg-drafts/commit/b59a950b901c046422d3eca362a325133a82e7bf) (2026-11-04)
+- [Correct where the text-scale meta element belongs](https://github.com/w3c/csswg-drafts/commit/a3e7fce3510dbffd4cc39c8358597824c4de5e09) (2026-11-04)
+- [[css-mixins-1] Add the ability to put @property inside of @private. #14442](https://github.com/w3c/csswg-drafts/commit/5df2d97275eb118fb96be4f8444a5bddd509e2ab) (2026-11-03)
+- [[css-env-1] Remove out-of-date issue; env() timing is well-defined and well-established now.](https://github.com/w3c/csswg-drafts/commit/855da9c71987cc35cad81398a86066d2b5c63982) (2026-11-03)
+- [[css-env-1] Remove out-of-date issue; env() timing is well-defined and well-established now.](https://github.com/w3c/csswg-drafts/commit/d96f446537800c33777eac39a983b280600eec66) (2026-11-03)
+- [[css-env-1][editorial] Remove near-duplicated text accidentally left in.](https://github.com/w3c/csswg-drafts/commit/ee2469ca7ef7cbc78dd350eb21d2f3761097016c) (2026-11-03)
+- [[css-env-1] Move around the section on custom envs, and mention link params.](https://github.com/w3c/csswg-drafts/commit/c1d78c4b65c73552b7766ff87f4e39a56cf987ea) (2026-11-03)
+- [[css-env-1][css-link-params-1] Pass color/accent-color as env() and a UA rule on the root. #14447](https://github.com/w3c/csswg-drafts/commit/f6a994be84d4df01b0c9cb77225ca11f1b131dde) (2026-11-03)
+- [[css-link-params-1][editorial] add big text](https://github.com/w3c/csswg-drafts/commit/e83f3065e4443ea48b195e488017a6ad67f226e9) (2026-11-03)
+- [[css-link-params] Per WG resolution, use a : between name and value in param() #14275](https://github.com/w3c/csswg-drafts/commit/636a76a25e992170038bbdcc032cc8f24519e991) (2026-11-03)
+- [[css-images-5][editorial] Update changes](https://github.com/w3c/csswg-drafts/commit/62bb0ae2a29c486e7d5f8647c2c54d33997e9ec3) (2026-11-03)
+- [[css-color-4][editorial] Update changes, fix html validity](https://github.com/w3c/csswg-drafts/commit/787c23481a03c20a159a83e85e865fe569f2ba76) (2026-11-03)
