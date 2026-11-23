@@ -861,3 +861,47 @@ No se han detectado cambios relevantes esta semana en las fuentes vigiladas.
 - [Use CSS comments in the selector namespace examples](https://github.com/w3c/csswg-drafts/commit/b406881c52cc85e2cbbd496cf8952acdcbb5884a) (2026-11-10)
 - [[selectors-4] Fix the default namespace bibliography link](https://github.com/w3c/csswg-drafts/commit/f5b869482b4aba381fe707ae9a7486aca131da78) (2026-11-10)
 - [[css-conditional-5] Remove naming issue label](https://github.com/w3c/csswg-drafts/commit/638558dec6de84269ab85a705d17643abe33dc9c) (2026-11-10)
+
+---
+
+# Vigilancia semanal de CSS — 2026-11-23
+
+## MDN Web Docs — cambios en la referencia de CSS
+- [Updated `margin-trim` property (#46568)](https://github.com/mdn/content/commit/d5815e4cd86d8e9b54a8b7518abf86cc01f46db2) (2026-11-23)
+- [Add live example to <url> data type (#46596)](https://github.com/mdn/content/commit/37e65fd48969fe85f6a3be0ca203d97848019a35) (2026-11-23)
+- [CSS: use {{CSSInfo}} for color-interpolation (#46572)](https://github.com/mdn/content/commit/3015b5592d84953a24676609c58bb756caea504f) (2026-11-23)
+- [Add link to approaches to line breaking (#46248)](https://github.com/mdn/content/commit/5d36878cea385cee3a4823ffb00ba4cac04a5826) (2026-11-23)
+- [Fix directional language in value description (#46500)](https://github.com/mdn/content/commit/cdbd60eab97b1958837806b059a920f6da2f4e78) (2026-11-23)
+- [Fix the list of conditions in the animation accessibility notes (#46266)](https://github.com/mdn/content/commit/5d20ba73fde9de229a91dbdabe3be20966e95a65) (2026-11-19)
+- [Add a radial-size and position example to `radial-gradient()` (#46453)](https://github.com/mdn/content/commit/249135e07efd741bcad5bac1af7f12ca0abc3b19) (2026-11-19)
+- [Fix junction endpoints links on the row-rule-inset-junction pages (#46548)](https://github.com/mdn/content/commit/a8ef801e2065b729d1a227f2dbd44e46d2dd5c1b) (2026-11-17)
+- [New guides: overview of all the gap properties (#45015)](https://github.com/mdn/content/commit/e57c161bccdd08db7e46922255e1dc3ea74058d4) (2026-11-17)
+- [Fix invalid heading hierarchy (#46553)](https://github.com/mdn/content/commit/7d55f113b5a05afe6ada6bb9b76bd3b0458f077d) (2026-11-17)
+- [Fix typos (#46543)](https://github.com/mdn/content/commit/e976b4bf6b9e0c68b4321904560df47804d8cc48) (2026-11-16)
+
+## CSSWG Drafts — cambios en especificaciones
+- [[css-spatial-1] Add portal-action: resize](https://github.com/w3c/csswg-drafts/commit/804b7b0055e80dfaba091e7f32a4bca303e569e3) (2026-11-20)
+- [[css-spatial-1] Add security/privacy/a11y considerations section](https://github.com/w3c/csswg-drafts/commit/9195e3f1ff1165d9f60f8cac86711a9839898403) (2026-11-20)
+- [[css-spatial-1] Fix interaction of position-area: origin and position-try](https://github.com/w3c/csswg-drafts/commit/328444151a63bf1c31228ec6d7ca354637d83ca0) (2026-11-20)
+- [[css-spatial-1] Define position-context: anchor for cross-context anchoring](https://github.com/w3c/csswg-drafts/commit/0c8d7c5621f8b05c03d55e8c7bddbea91c716395) (2026-11-20)
+- [[css-spatial-1] Define cross-context anchoring](https://github.com/w3c/csswg-drafts/commit/1995fb2a175fe1e49c67a9baa83c0cd66b2853d0) (2026-11-20)
+- [[css-spatial-1][editorial] Wording tweaks](https://github.com/w3c/csswg-drafts/commit/b1379c9178e7f82f642ab0f63db4b80e1f9e0a81) (2026-11-20)
+- [[all-css] Copy out the properties table to a separate doc](https://github.com/w3c/csswg-drafts/commit/699c444481f48549a3db19feadd95d9efa22a188) (2026-11-20)
+- [[css-pseudo-4] Clarify ::scroll-button argument for CSSPseudoElement.selectorText (#14730)](https://github.com/w3c/csswg-drafts/commit/2aa1166724f746c6d5cdfaeb05579fef712b85ac) (2026-11-20)
+- [[css-spatial-1] Switch @environment-map to prelude naming with dashed idents](https://github.com/w3c/csswg-drafts/commit/4c55c724066ae5761b07fbcf538300bd5b3f43a1) (2026-11-20)
+- [[css-spatial-1] Update explainer links](https://github.com/w3c/csswg-drafts/commit/9418d2cec0b8c4ca38ec048402372b3d46505a19) (2026-11-20)
+- [Check the Float64Array length in the 3D factory branch](https://github.com/w3c/csswg-drafts/commit/21b4e8ca22e482b6bacd4fe4297cac72138f018a) (2026-11-10)
+- [Make the property-index table put the grammar on a line by itself so it's more readable.](https://github.com/w3c/csswg-drafts/commit/a956b808c2f5e5e854be97b2030cad583903b94f) (2026-11-20)
+- [Update build-specs to split the build and deploy jobs, and update deps generally](https://github.com/w3c/csswg-drafts/commit/24fa5bcc69433a5c3466fa5c6806ac692ef1041f) (2026-11-20)
+- [Remove historical scripts, create a README documenting the remaining scripts](https://github.com/w3c/csswg-drafts/commit/67af47a451d6445add72fc1a58406770039171df) (2026-11-20)
+- [Add the all-css combiner script, integrated into the build-specs CI run.](https://github.com/w3c/csswg-drafts/commit/24152e8aafecc9ecefdf3da9eb1f91512873cc53) (2026-11-20)
+- [set up the project](https://github.com/w3c/csswg-drafts/commit/4313f6432c55ec899e301f8a6348671af03ab06b) (2026-11-17)
+- [[css-anchor-position-1][editorial] Fix position options list reference (#14811)](https://github.com/w3c/csswg-drafts/commit/64b2bf97b28d70d7780917940aef20ed5bd3356f) (2026-11-19)
+- [[css-anchor-position-1] Link to the exported invisible box definition](https://github.com/w3c/csswg-drafts/commit/e173e92cbdc47851d8a03cd5eb0cc9f3a837aa59) (2026-11-14)
+- [[css-anchor-position-1] Use @position-try in the !important rule](https://github.com/w3c/csswg-drafts/commit/592504e15a7e38b9597d511ab02df70639ee567f) (2026-11-14)
+- [[css-forms-1] Fix the unchecked checkbox and radio selector list](https://github.com/w3c/csswg-drafts/commit/58da0aa7f9391092d1c2caf0082fa9e9c8cdafe7) (2026-11-14)
+- [[css-color-4][editorial] WPT](https://github.com/w3c/csswg-drafts/commit/5e83e63e7561e02f24fdccf30b08ebd222eb794c) (2026-11-18)
+- [[css-color-6][editorial] WPT](https://github.com/w3c/csswg-drafts/commit/b5f834a51005187ab8d92b7fdc76817e877b53dc) (2026-11-18)
+- [[css-color-6] Link to issues regardig the blend colorspace, and describe the constraints (RGB space defined on 0 .. 1) #13254](https://github.com/w3c/csswg-drafts/commit/4a750c783cefebb96ef1f4112a73c04eea13861d) (2026-11-18)
+- [[pointer-animations-1][editorial] Prepare for FPWD, #14654](https://github.com/w3c/csswg-drafts/commit/bdbebbb74d96a667ead3c7e429260706b01eb426) (2026-11-18)
+- [[filter-effects-2][editorial] Prepare for FPWD #14654](https://github.com/w3c/csswg-drafts/commit/19a8f86f9ba8823af93cdda9562b0190b4ec60b4) (2026-11-18)
